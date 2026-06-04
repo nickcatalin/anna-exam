@@ -1,26 +1,70 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #eef3f7;
+  --surface: #ffffff;
+  --foreground: #16323f;
+  --muted: #5e7682;
+  --line: #d8e3ea;
+  --accent: #0e8a8a;
+  --accent-deep: #0a6d6d;
+  --accent-soft: #e3f4f3;
+  --correct: #0f9d6b;
+  --correct-soft: #e4f7ef;
+  --wrong: #d64545;
+  --wrong-soft: #fcebeb;
+  --gold: #c98a1b;
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-surface: var(--surface);
   --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-deep: var(--accent-deep);
+  --color-accent-soft: var(--accent-soft);
+  --color-correct: var(--correct);
+  --color-correct-soft: var(--correct-soft);
+  --color-wrong: var(--wrong);
+  --color-wrong-soft: var(--wrong-soft);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+body {
+  background:
+    radial-gradient(circle at 12% 8%, rgba(14, 138, 138, 0.06), transparent 40%),
+    radial-gradient(circle at 88% 92%, rgba(14, 138, 138, 0.05), transparent 40%),
+    var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Thin EKG / heartbeat divider */
+.ekg-line {
+  height: 2px;
+  width: 100%;
+  background-image: repeating-linear-gradient(
+    90deg,
+    var(--line) 0 18px,
+    transparent 18px 24px
+  );
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.pop-in {
+  animation: pop-in 0.25s ease-out;
 }
