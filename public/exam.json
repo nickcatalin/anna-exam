@@ -538,6 +538,42 @@
     },
     {
         "test": "Test V2",
+        "question": "Alegeți afirmațiile corecte referitoare la homocistinurie:",
+        "options": {
+            "a": "Este o boală cu transmitere autozomal dominantă",
+            "b": "Este determinată de un deficit al fenil-alanin hidroxilaza",
+            "c": "Este determinată de un defect al enzimei cistationin-β-sintetază",
+            "d": "Simptomatologia bolii care include colică renală, hematurie și infecții ale tractului urinar",
+            "e": "Este determinată de reabsorbția inadecvată a cisteinei la nivel renal"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test V2",
+        "question": "Alegeți afirmațiile corecte referitoare la diabetul zaharat de tip 1:",
+        "options": {
+            "a": "Vârful incidenței acestei boli este după vârsta de 50 de ani",
+            "b": "Complicația acută specifică este nefropatia",
+            "c": "Se datorează distrucției autoimune a celulelor β-pancreatice",
+            "d": "Complicația acută specifică este coma hiperosmolară",
+            "e": "Apare prin insulinorezistență"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test V2",
+        "question": "Principalele cauze ale hipocalcemiei includ:",
+        "options": {
+            "a": "Hiperparatiroidismul",
+            "b": "Hipotiroidismul",
+            "c": "Hipoparatiroidismul",
+            "d": "Metastaze osoase",
+            "e": "Supradozaj de vitamina D"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test V2",
         "question": "PSA-ul este un marker tumoral utilizat pentru:",
         "options": {
             "a": "Cancerul mamar",
