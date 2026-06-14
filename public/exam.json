@@ -2038,5 +2038,341 @@
             "e": "Poate determina sindromul cenusiu"
         },
         "correct_answer": "a"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Prometazina este:",
+        "options": {
+            "a": "Antiemetic",
+            "b": "Antisecretor gastric",
+            "c": "Stimulant al secretiei gastrice",
+            "d": "Antispastic",
+            "e": "Antidiareic"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Bifati preparatul utilizat in criza de astm bronsic:",
+        "options": {
+            "a": "teofilina",
+            "b": "terbutalina",
+            "c": "propranolol",
+            "d": "zileuton",
+            "e": "salmeterol"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Pirenzepina actioneaza prin:",
+        "options": {
+            "a": "blocarea receptorilor beta 2",
+            "b": "blocarea receptorilor H2",
+            "c": "blocarea receptorilor muscarinici",
+            "d": "inhibitia fosfodiesterazelor",
+            "e": "stimularea patrunderii calciului in celula"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Notati afectiunea in care nu administram Domperidona:",
+        "options": {
+            "a": "dispepsia",
+            "b": "tratamentul diareei",
+            "c": "boala de reflux gastro-esofagian",
+            "d": "tratamentul constipatiei",
+            "e": "ileusul post-operator"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Notati diureticul antagonist competitiv al aldosteronului:",
+        "options": {
+            "a": "Furosemid",
+            "b": "Triamteren",
+            "c": "Clopamida",
+            "d": "Spironolactona",
+            "e": "Bumetamida"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Sunt efecte adverse ale glicozizilor cardiotonici, cu exceptia:",
+        "options": {
+            "a": "perturbarea perceptiei culorilor",
+            "b": "bradicardie",
+            "c": "greata",
+            "d": "constipatie",
+            "e": "extrasistole atriale sau ventriculare"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Furosemidul:",
+        "options": {
+            "a": "produce hiperpotasemie",
+            "b": "produce hipercalcemie",
+            "c": "blocheaza co-transportorul Na+, K+/2Cl",
+            "d": "blocheaza fixarea aldosteronului pe receptorii specifici",
+            "e": "blocheaza anhidraza carbonica"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Labetalolul: A. este un betaadrenomimetic B. este un betablocant selectiv C. blocheaza si receptorii alfa 1 D. poate determina cresterea tensiunii arteriale E. se poate administra la pacientii cu angina pectorala",
+        "options": {
+            "a": "A, D",
+            "b": "A, E",
+            "c": "B, D",
+            "d": "C, D",
+            "e": "C, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Sulfatul de magneziu:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un purgativ osmotic",
+            "d": "este un citoprotector",
+            "e": "este un purgativ iritant"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Notati afirmatia adevarata referitoare la verapamil:",
+        "options": {
+            "a": "este un derivat dihidropiridinic",
+            "b": "blocheaza enzima de conversie a angiotensinei",
+            "c": "poate determina edeme periferice",
+            "d": "determina cresterea tensiunii arteriale",
+            "e": "determina tahicardie"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "In supradozajul de acenocumarol se administreaza:",
+        "options": {
+            "a": "heparina",
+            "b": "fitomenadiona",
+            "c": "sulfat de protamina",
+            "d": "fizostigmina",
+            "e": "acid acetilsalicilic"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Notati cefalosporina care se administreaza oral:",
+        "options": {
+            "a": "Cefalotina",
+            "b": "Cefaclor",
+            "c": "Cefoperazona",
+            "d": "Ceftriaxona",
+            "e": "Cefepim"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Bifati afirmatia falsa referitoare la minociclina:",
+        "options": {
+            "a": "inhiba sinteza proteica bacteriana",
+            "b": "poate determina toxicitate hepatica",
+            "c": "se administreaza exclusiv injectabil",
+            "d": "nu se administreaza la copii sub 8 ani",
+            "e": "poate produce fotosensibilitate"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Bifati afirmatia adevarata referitoare la glibenclamida:",
+        "options": {
+            "a": "este un derivat de sulfoniluree",
+            "b": "este o biguanida",
+            "c": "scade eliberarea de insulina de la nivelul celulelor beta pancreatice",
+            "d": "scade absorbtia intestinala a glucozei",
+            "e": "se administreaza subcutanat"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Carbenoxolona:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un antiacid",
+            "d": "este un citoprotector",
+            "e": "este un inhibitor al secretiei gastrice"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Metamizolul este un:",
+        "options": {
+            "a": "antidiabetic",
+            "b": "antitiroidian",
+            "c": "antiaritmic",
+            "d": "analgezic",
+            "e": "antihipertensiv"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Bifati afirmatia adevarata referitoare la oxeladina:",
+        "options": {
+            "a": "deprima centrul respiratiei",
+            "b": "este un antitusiv central opioid",
+            "c": "este un mucosecretolitic",
+            "d": "este un bronhodilatator",
+            "e": "este un antitusiv central neopioid"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Bifati afirmatia falsa referitoare la cloramfenicol:",
+        "options": {
+            "a": "este un antibiotic bactericid",
+            "b": "blocheaza sinteza proteinelor bacteriene",
+            "c": "poate determina supresie medulara",
+            "d": "este inactiva fata de Pseudomonas",
+            "e": "poate determina sindromul cenusiu"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati diureticul care actioneaza la nivelul tubului contort proximal:",
+        "options": {
+            "a": "indapamida",
+            "b": "hidroclorotiazida",
+            "c": "furosemidul",
+            "d": "spironolactona",
+            "e": "acetazolamida"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati afirmatia adevarata referitoare la teofilina:",
+        "options": {
+            "a": "produce bradicardie",
+            "b": "este bronhodilatator beta-adrenomimetic",
+            "c": "este bronhodilatator anticolinergic",
+            "d": "stimuleaza fosfodiesterazele",
+            "e": "poate produce tahicardie"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati afirmatia adevarata referitoare la bromura de tiotropium:",
+        "options": {
+            "a": "este un bronhodilatator indicat in tratamentul crizelor astmatice",
+            "b": "inhiba fosfodiesterazele",
+            "c": "este un bronhodilatator adrenomimetic",
+            "d": "se administreaza injectabil intravenos",
+            "e": "este un bronhodilatator anticolinergic"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati afirmatia adevarata referitoare la pirenzepina:",
+        "options": {
+            "a": "este un antiacid",
+            "b": "este un citoprotector",
+            "c": "este un antihistaminic H1",
+            "d": "este un inhibitor al pompei de protoni",
+            "e": "este un antisecretor gastric"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Amiloridul:",
+        "options": {
+            "a": "produce hipopotasemie",
+            "b": "este un anestezic general",
+            "c": "se administreaza de electie in crizele hipertensive, pe cale intravenoasa",
+            "d": "produce hiperpotasemie",
+            "e": "este un diuretic tiazidic"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Notati efectul farmacodinamic al glicozizilor cardiotonici:",
+        "options": {
+            "a": "Inotrop pozitiv",
+            "b": "batmotrop negativ",
+            "c": "dromotrop pozitiv",
+            "d": "inotrop negativ",
+            "e": "cronotrop pozitiv"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Nitroglicerina produce:",
+        "options": {
+            "a": "coronarodilatatie in teritoriul ischemic",
+            "b": "bradicardie",
+            "c": "venodilatatie",
+            "d": "cresterea tensiunii arteriale",
+            "e": "vasoconstrictie in teritoriul arterial"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati afirmatia adevarata referitoare la lidocaina:",
+        "options": {
+            "a": "este un antiaritmic din clasa IA",
+            "b": "se administreaza in aritmiile din intoxicatia digitalica",
+            "c": "se administreaza exclusiv in aritmiile atriale",
+            "d": "este un beta blocant",
+            "e": "este un blocant al canalelor de K"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Carbonatul de calciu:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un antiacid",
+            "d": "este un citoprotector",
+            "e": "este un laxativ de volum"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Notati antihipertensivul care actioneaza prin blocarea receptorilor pentru angiotensina:",
+        "options": {
+            "a": "metoprolol",
+            "b": "nifedipina",
+            "c": "enalapril",
+            "d": "clonidina",
+            "e": "candesartan"
+        },
+        "correct_answer": "e"
     }
 ]
