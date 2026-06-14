@@ -1,596 +1,1070 @@
 [
     {
-        "test": "Test 1 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la metabolismul calciului:",
+        "test": "Testul 1",
+        "question": "Notați afirmația falsă referitoare la beta-blocante:",
         "options": {
-            "a": "PTH mobilizează calciul în oase",
-            "b": "PTH scade excreția fosfatului",
-            "c": "PTH scade reabsorbția tubulară a calciului",
-            "d": "Calcitonina inhibă activitatea osteoclastelor",
-            "e": "Calcitonina are efect hipercalcemiant"
-        },
-        "correct_answer": "d"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Sunt markeri ai riscului de boală coronariană și al instabilității plăcii de aterom, CU EXCEPȚIA:",
-        "options": {
-            "a": "mieloperoxidaza",
-            "b": "proteina C reactivă",
-            "c": "fibrinogenul",
-            "d": "lipoproteina (a)",
-            "e": "homocistina"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Valori crescute ale fosfatazei alcaline osoase pot fi întâlnite în:",
-        "options": {
-            "a": "Colecistită",
-            "b": "Icter mecanic",
-            "c": "Boala Paget",
-            "d": "Carcinom de prostată",
-            "e": "Colangită sclerozantă"
-        },
-        "correct_answer": "c"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Pacient în vârstă de 20 de ani se prezintă la medicul de familie pentru astenie fizică și palpitații. La examenul obiectiv prezintă paloare tegumentară și discretă colorare în galben a sclerelor. Bilirubină totală 2.8mg/dl (v.n. 0.2-1mg/dl); bilirubină directă 0.2mg/dl (v.n. 0-0.2mg/dl), AST=29U/L (v.n. 5-35U/L), ALT=25U/L (v.n. 7-45U/L), FA=80U/L (v.n. 0-115U/L), Hematii 2.5mil/mmc (v.n. 4-5.5mil/mmc), Hb=8.3g/dl (v.n. 12-15g/dl). Sumar de urină: Bilirubina -, Urobilinogen ++++. Profilul biochimic este specific pentru:",
-        "options": {
-            "a": "Icter obstructiv",
-            "b": "Icter hepatic",
-            "c": "Icter mecanic",
-            "d": "Icter hemolitic",
-            "e": "Icter posthepatic"
-        },
-        "correct_answer": "d"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Hipobetalipoproteinemia se asociază cu următoarele:",
-        "options": {
-            "a": "mutații la nivelul genei care codifică apo A",
-            "b": "deficite neurologice și oftalmologice severe",
-            "c": "mutații la nivelul genei care codifică apo C-II",
-            "d": "risc crescut de apariție a bolilor cardiovasculare",
-            "e": "scăderea HDL-C"
+            "a": "Propranololul este beta-blocant neselectiv",
+            "b": "Metoprololul produce bronhospasm",
+            "c": "Se utilizează în diverse forme de HTA",
+            "d": "Sunt preferate în HTA la tineri cu tonus simpatic crescut",
+            "e": "Accentuează gradul de bloc AV"
         },
         "correct_answer": "b"
     },
     {
-        "test": "Test 1 - V3",
-        "question": "Imunelectroforeza serică în boala hepatică virală arată:",
+        "test": "Testul 1",
+        "question": "Are efect antiagregant plachetar la doze mici:",
         "options": {
-            "a": "Scăderea IgM",
-            "b": "Creșterea IgA",
-            "c": "Scăderea IgA",
-            "d": "Creșterea IgM",
-            "e": "Creșterea IgD"
-        },
-        "correct_answer": "d"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Mielomul multiplu se caracterizează prin următoarele, CU EXCEPȚIA:",
-        "options": {
-            "a": "sindrom de retenție azotată",
-            "b": "hipercalcemie",
-            "c": "sindrom de citoliză hepatică",
-            "d": "o concentrație serică normală de fosfatază alcalină este considerată foarte sugestivă în asociere cu leziuni osoase severe",
-            "e": "hiperproteinemie cu hipoalbuminemie"
+            "a": "Heparina",
+            "b": "Enoxaparina",
+            "c": "Acidul acetilsalicilic",
+            "d": "Fraxiparina",
+            "e": "Streptokinaza"
         },
         "correct_answer": "c"
     },
     {
-        "test": "Test 1 - V3",
-        "question": "În funcție de severitate, proteinuria se poate clasifica astfel:",
+        "test": "Testul 1",
+        "question": "Este din clasa blocantelor canalelor lente de calciu:",
         "options": {
-            "a": "proteinurie severă, peste 5g/24 ore",
-            "b": "proteinurie severă 0.5-4 g/24 ore",
-            "c": "proteinurie avansată, 1-5 g/24 ore",
-            "d": "proteinurie severă, peste 4g/24 ore",
-            "e": "proteinurie redusă, sub 1 g/24 ore"
+            "a": "Fentolamina",
+            "b": "Clonidina",
+            "c": "Rezerpina",
+            "d": "Verapamil",
+            "e": "Hidralazina"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Notați efectul advers care nu este specific aminoglicozidelor:",
+        "options": {
+            "a": "Reacții alergice",
+            "b": "Efecte curarizante",
+            "c": "Nefrotoxicitate",
+            "d": "Ototoxicitate",
+            "e": "Modificări în structura dentară"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Acidul dehidrocolic are următorul efect farmacodinamic:",
+        "options": {
+            "a": "Antiemetic",
+            "b": "Coleretic",
+            "c": "Antispastic",
+            "d": "Antisecretor gastric",
+            "e": "Prokinetic"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Nitroglicerina și substanțele înrudite sunt contraindicate la pacienții cu:",
+        "options": {
+            "a": "Infarct miocardic",
+            "b": "Angina pectorală stabilă",
+            "c": "Angina vasospastică",
+            "d": "Angina instabilă",
+            "e": "Presiune intracraniană crescută"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Carbenicilina se caracterizează prin:",
+        "options": {
+            "a": "Are efect bacteriostatic",
+            "b": "Se absoarbe bine digestiv",
+            "c": "Este penicilină antipseudomonas",
+            "d": "Se utilizează pentru tratamentul infecțiilor streptococice",
+            "e": "Are efect tuberculostatic"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Administrate injectabil, preparatele de fier pot determina următoarele efecte adverse, cu excepția:",
+        "options": {
+            "a": "Bronhospasm cu dispnee",
+            "b": "Limfadenopatie generalizată",
+            "c": "Șoc anafilactic",
+            "d": "Urticarie",
+            "e": "Colorația brună a scaunului"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Notați indicația pentru Mexiletină:",
+        "options": {
+            "a": "Edeme",
+            "b": "Angina pectorală",
+            "c": "HTA",
+            "d": "Insuficiență cardiacă",
+            "e": "Aritmii ventriculare"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Bifați blocantul receptorilor AT1 pentru angiotensina II:",
+        "options": {
+            "a": "Enalapril",
+            "b": "Valsartan",
+            "c": "Nifedipina",
+            "d": "Propranolol",
+            "e": "Furosemid"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Următoarea afirmație referitoare la medicația antidiabetică este adevărată:",
+        "options": {
+            "a": "Biguanidele antidiabetice sunt indicate în tratamentul diabetului zaharat insulino-dependent",
+            "b": "Biguanidele se indică în cetoacidoza diabetică",
+            "c": "Clorpropamida are un timp de înjumătățire plasmatic lung",
+            "d": "Buforminul se administrează cu o oră înainte de masă",
+            "e": "Glucagonul este un polipeptid cu 29 de aminoacizi produs de celulele beta ale insulelor Langerhans"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Notați afirmația adevărată despre metoclopramid:",
+        "options": {
+            "a": "Blochează receptorii serotoninergici",
+            "b": "În doze mari blochează și receptorii muscarinici",
+            "c": "Prezintă efect prokinetic",
+            "d": "Benzodiazepinele antagonizează efectul antiemetic",
+            "e": "Nu produce tulburări extrapiramidale"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Notați utilizarea sulfatului de protamină:",
+        "options": {
+            "a": "Hemoragii determinate de supradozarea heparinei",
+            "b": "Bolnavi cu stenoză mitrală",
+            "c": "Embolii pulmonare",
+            "d": "Fibrilație atrială",
+            "e": "Bolnavi cu proteze valvulare"
         },
         "correct_answer": "a"
     },
     {
-        "test": "Test 1 - V3",
-        "question": "AFP este un marker tumoral utilizat pentru:",
+        "test": "Testul 2",
+        "question": "Notați preparatul de fier injectabil:",
         "options": {
-            "a": "Tumori germinale",
-            "b": "Neuroblastom",
-            "c": "Cancerul de prostată",
-            "d": "Neoplasm tiroidian",
-            "e": "Cancer de pancreas"
+            "a": "Sulfat feros",
+            "b": "Gluconat feros",
+            "c": "Glutamat feros",
+            "d": "Fumarat feros",
+            "e": "Fier polimaltozat"
         },
-        "correct_answer": "a"
+        "correct_answer": "e"
     },
     {
-        "test": "Test 1 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la fenilcetonurie:",
+        "test": "Testul 3",
+        "question": "Tietilperazina este:",
         "options": {
-            "a": "Forma atipică este determinată de un deficit al coenzimei BH4",
-            "b": "Este caracterizată de prezența calculilor renali",
-            "c": "Este o boală cu transmitere autozomal dominantă",
-            "d": "Forma clasică este determinată de un deficit al fenil-alanin dehidrogenazei",
-            "e": "Forma atipică este determinată de un deficit al fenil-alanin hidroxilazei"
+            "a": "un antiacid",
+            "b": "un antispastic",
+            "c": "un antiemetic",
+            "d": "un antidiareic",
+            "e": "un antihistaminic H1"
         },
-        "correct_answer": "a"
+        "correct_answer": "c"
     },
     {
-        "test": "Test 1 - V3",
-        "question": "Modificările metabolice în diabetul zaharat tip 1 cuprind următoarele modificări, CU EXCEPȚIA:",
+        "test": "Testul 3",
+        "question": "Bifați afirmația adevărată despre butilscopolamină:",
         "options": {
-            "a": "Hipocolesterolemie",
-            "b": "Creșterea sintezei de lipoproteine cu densitate foarte joasă (VLDL)",
-            "c": "Deficit de lipoprotein-lipază, care determină creșterea chilomicronilor și VLDL",
-            "d": "Hiperglicemie",
-            "e": "Hipertriglicerolemie"
+            "a": "Este un prokinetic",
+            "b": "Este un laxativ de volum",
+            "c": "Este un antispastic neurotrop",
+            "d": "Este un antiemetic",
+            "e": "Este un antispastic musculotrop"
         },
-        "correct_answer": "a"
+        "correct_answer": "c"
     },
     {
-        "test": "Test 1 - V3",
-        "question": "Prezența de anti-HCV pozitivi asociată cu ARN HCV negativ poate fi întâlnită în:",
+        "test": "Testul 3",
+        "question": "Notați afirmațiile adevărate despre hidroxidul de magneziu: A. este un inhibitor al pompei de protoni; B. este un antiemetic; C. este un antispastic; D. se poate utiliza tratamentul esofagitei de reflux; E. poate determina diaree.",
         "options": {
-            "a": "Absența infecției",
-            "b": "Rezoluție după infecția acută/cronică",
-            "c": "Infecția acută precoce",
-            "d": "Rezultat pozitiv ARN HCV"
-        },
-        "correct_answer": "b"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Hepatita autoimună de tip 1 este caracterizată de prezența în procent de 20-100% a:",
-        "options": {
-            "a": "Anti-LKM1",
-            "b": "Anti-LC1",
-            "c": "Anti-SLA",
-            "d": "ASMA",
-            "e": "Anti-ANA"
+            "a": "A, C",
+            "b": "A, D",
+            "c": "B, D",
+            "d": "D, E",
+            "e": "A, E"
         },
         "correct_answer": "d"
     },
     {
-        "test": "Test 1 - V3",
-        "question": "Pacient în vârstă de 18 ani este adus în camera de gardă dezorientat, confuz cu respirație rapidă și profundă (tip Kussmaul), simptomatologie debutată brusc după ora de educație fizică. Analize biochimice: glicemie 500 mg/dL, pH arterial: 7.1, HCO3-: 12 mEq/L, creatin kinaza (CK): 200 U/L, corpi cetonici în urină: Pozitiv (+++). Ce diagnostic este cel mai probabil pentru acest pacient?",
+        "test": "Testul 3",
+        "question": "Labetalolul: A. este un betaadrenomimetic; B. este un betablocant selectiv; C. blochează și receptorii alfa 1; D. poate determina creșterea tensiunii arteriale; E. se poate administra la pacienții cu angina pectorală.",
         "options": {
-            "a": "Diabet zaharat tip 1 cu cetoacidoză",
-            "b": "Hiperglicemie fără cetoacidoză",
-            "c": "Diabet zaharat tip 2 cu hiperosmolaritate",
-            "d": "Acidoză lactică",
-            "e": "Insuficiență renală acută"
+            "a": "A, D",
+            "b": "A, E",
+            "c": "B, D",
+            "d": "C, D",
+            "e": "C, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Notați preparatul utilizat pentru tratamentul diareei:",
+        "options": {
+            "a": "Docusatul de sodiu",
+            "b": "Sulfatul de magneziu",
+            "c": "Sărurile de calciu",
+            "d": "Sulfatul de sodiu",
+            "e": "Bisacodilul"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Notați afirmația adevărată despre trimetafan:",
+        "options": {
+            "a": "este un ganglioblocant",
+            "b": "este un blocant al receptorilor pentru angiotensina de tip II",
+            "c": "este un agonist alfa 2 adrenergic",
+            "d": "este un diuretic antialdosteronic",
+            "e": "este un inhibitor al enzimei de conversie a angiotensinei"
         },
         "correct_answer": "a"
     },
     {
-        "test": "Test 1 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la carcinomul hepatocelular:",
+        "test": "Testul 3",
+        "question": "Notați afirmația adevărată despre aminofilină:",
         "options": {
-            "a": "Reprezintă a doua cauză de cancer în lume",
-            "b": "Infecția cu virus hepatitic C este factor de risc",
-            "c": "Reprezintă a treia cauză de cancer în lume",
-            "d": "Infecția cu virus hepatitic A este factor de risc",
-            "e": "CA 19-9 este marker serologic specific"
-        },
-        "correct_answer": "b"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Simptomatologia hipoglicemiei cuprinde următoarele, CU EXCEPȚIA:",
-        "options": {
-            "a": "Cefalee",
-            "b": "Confuzie",
-            "c": "Deces",
-            "d": "Scădere ponderală",
-            "e": "Amețeli"
-        },
-        "correct_answer": "d"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Hiperlipoproteinemia de tip IIa:",
-        "options": {
-            "a": "Apare în copilărie",
-            "b": "Aterogenitate crescută",
-            "c": "Deficit de lipoproteinlipază",
-            "d": "Crește valoarea trigliceridelor"
-        },
-        "correct_answer": "b"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la poliurie:",
-        "options": {
-            "a": "Nu poate fi întâlnită în pielonefrite",
-            "b": "Apare în diabetul insipid",
-            "c": "Este caracterizată de jenă la micțiune cu sau fără dureri",
-            "d": "Reprezintă eliminarea unei cantități de urină mai mică decât 150 ml/24 ore",
-            "e": "Este caracterizată de micțiuni frecvente și reduse cantitativ"
-        },
-        "correct_answer": "b"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la transferină:",
-        "options": {
-            "a": "Menține presiunea coloid-osmotică",
-            "b": "Este un marker tumoral folosit în cancerele colo-rectale",
-            "c": "Este o glicoproteină sintetizată hepatic",
-            "d": "Scăderi ale proteinei se asociază cu boala Wilson",
-            "e": "Are rol în transportul cuprului"
-        },
-        "correct_answer": "c"
-    },
-    {
-        "test": "Test 1 - V3",
-        "question": "Sindromul Gilbert se caracterizează prin, CU EXCEPȚIA:",
-        "options": {
-            "a": "Este o afecțiune cu transmitere autozomal dominantă",
-            "b": "Este caracterizat de scăderea UDP-glucuronil transferazei",
-            "c": "Bilirubina serică are valori peste 20mg/dl",
-            "d": "Icterul apare intermitent",
-            "e": "Bilirubina serică nu depășește de obicei 3mg/dl"
-        },
-        "correct_answer": "c"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Pacientă în vârstă de 48 de ani se prezintă în camera de gardă pentru colorarea în galben a tegumentelor și mucoaselor, durere în hipocondrul drept, greață și vărsături. Analizele de laborator arată: AST=45U/L, ALT=50U/L, gammaGT=180U/L, FA=200U/L, Lipaza=30U/L, bilirubina totală=10mg/dl, BD=8mg/dl. Care este cel mai probabil diagnostic?",
-        "options": {
-            "a": "Icter prehepatic",
-            "b": "Icter mecanic",
-            "c": "Icter hemolitic",
-            "d": "Icter hepatic",
-            "e": "Icter fiziologic"
-        },
-        "correct_answer": "b"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la sindromul Crigler-Najar tip 2:",
-        "options": {
-            "a": "Este caracterizată de scăderea activității biliverdin reductazei",
-            "b": "Este caracterizat de scăderea UDP-glucuronil transferazei",
-            "c": "Este o afecțiune cu transmitere autozomal recesivă",
-            "d": "Bilirubina serică are valori sub 1mg/dl",
-            "e": "Bilirubina serică are valori peste 20mg/dl"
-        },
-        "correct_answer": "b"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "În insuficiența cardiacă, la pacienții cu instalare insidioasă a simptomatologiei, este considerată diagnostică:",
-        "options": {
-            "a": "o valoare a NT-proBNP peste 125pg/ml",
-            "b": "o valoare a NT-proBNP peste 300pg/ml",
-            "c": "o valoare a BNP peste 10pg/ml",
-            "d": "o valoare a BNP sub 35pg/ml",
-            "e": "o valoare a NT-proBNP peste 200pg/ml"
+            "a": "este un bronhodilatator ce poate fi administrat în criza de astm bronșic",
+            "b": "este un bronhodilatator anticolinergic",
+            "c": "este un bronhodilatator adrenergic",
+            "d": "se administrează exclusiv în tratamentul cronic al BPCO",
+            "e": "Produce bradicardie"
         },
         "correct_answer": "a"
     },
     {
-        "test": "Test 3 - V3",
-        "question": "PSA-ul este un marker tumoral utilizat pentru:",
+        "test": "Testul 3",
+        "question": "Bifați afirmația adevărată referitoare la clofenadol:",
         "options": {
-            "a": "Cancerul mamar",
-            "b": "Tumori germinale",
-            "c": "Neoplasm ovarian",
-            "d": "Cancerul de prostată",
-            "e": "Cancer de pancreas"
+            "a": "Se indică în tusea productivă",
+            "b": "Are efect hipnotic",
+            "c": "Este un agent mucolitic",
+            "d": "Este un antitusiv",
+            "e": "Este un bronhodilatator"
         },
         "correct_answer": "d"
     },
     {
-        "test": "Test 3 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la transaminaze:",
+        "test": "Testul 4",
+        "question": "Notați antibioticul care acționează prin blocarea topoizomerazelor bacteriene II și IV:",
         "options": {
-            "a": "Prezintă valori înalt crescute în hepatitele acute",
-            "b": "GGT este enzima cu cea mai mare specificitate hepatică",
-            "c": "AST este enzima cu cea mai mare specificitate hepatică",
-            "d": "Folosesc ca și coenzimă NADH",
-            "e": "Prezintă valori înalt crescute în hepatitele cronice"
+            "a": "Polimixina",
+            "b": "Ciprofloxacina",
+            "c": "Rifampicina",
+            "d": "Eritromicina",
+            "e": "Penicilina G"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Antihistaminicele H2 se caracterizează prin:",
+        "options": {
+            "a": "Inhibă și secreția stimulată de gastrină",
+            "b": "Sunt activate de pH-ul alcalin",
+            "c": "Reprezintă medicația de bază în spasme intestinale",
+            "d": "Nu este inhibitor enzimatic Cimetidina",
+            "e": "În ulcerul de stress sunt contraindicate"
         },
         "correct_answer": "a"
     },
     {
-        "test": "Test 3 - V3",
-        "question": "Scorul Ranson la internare utilizează următoarele, CU EXCEPȚIA:",
+        "test": "Testul 4",
+        "question": "Nu se administrează la copii sub 8 ani:",
         "options": {
-            "a": "Uree > 5mg/dl",
-            "b": "Leucocite > 16000/mmc",
-            "c": "Varsta > 55ani",
-            "d": "Glicemie > 200mg/dl",
-            "e": "LDH > 350U/L"
+            "a": "Cefaclor",
+            "b": "Tetraciclina",
+            "c": "Benzatinbenzilpenicilina",
+            "d": "Benzilpenicilina",
+            "e": "Cefalexin"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Precizați medicamentul indicat în edeme de cauză cardiacă:",
+        "options": {
+            "a": "Enalapril",
+            "b": "Losartan",
+            "c": "Prazosin",
+            "d": "Propafenona",
+            "e": "Furosemid"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Este inhibitor al degranulării mastocitare administrat în astmul bronșic:",
+        "options": {
+            "a": "Beclometazona",
+            "b": "Cromoglicatul disodic",
+            "c": "Zileuton",
+            "d": "Bromura de oxitropium",
+            "e": "Efedrina"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Notați afirmația falsă despre ambroxol:",
+        "options": {
+            "a": "Este metabolit al bromhexinului",
+            "b": "Crește vâscozitatea secrețiilor bronșice",
+            "c": "Favorizează expectorația",
+            "d": "Se administrează oral 30 mg de 2 ori pe zi",
+            "e": "Rareori produce tulburări digestive"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Indapamida se caracterizează prin:",
+        "options": {
+            "a": "Durata mare de acțiune, peste 24 ore",
+            "b": "Este cel mai puternic diuretic",
+            "c": "Ramura ascendentă a ansei Henle este locul de acțiune",
+            "d": "Blochează co-transportorul Na,K/2Cl",
+            "e": "Intensitatea efectului este direct proporțională cu doza"
         },
         "correct_answer": "a"
     },
     {
-        "test": "Test 3 - V3",
-        "question": "Alegeți afirmația FALSA referitoare la scorul Child-Pugh:",
+        "test": "Testul 4",
+        "question": "Notați afirmația falsă referitoare la insulină:",
         "options": {
-            "a": "Este folosit pentru evaluarea prognosticului pacienților cu ciroza hepatică",
-            "b": "Cuprinde albumina serica",
-            "c": "Cuprinde bilirubina totală",
-            "d": "Cuprinde transtiretina",
-            "e": "Cuprinde INR-ul"
-        },
-        "correct_answer": "d"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Hipoglicemia se caracterizează prin:",
-        "options": {
-            "a": "Valori ale glicemiei peste 100mg/dl",
-            "b": "Valori ale glicemiei sub 200mg/dl",
-            "c": "Scădere ponderală",
-            "d": "Poliurie, polidipsie",
-            "e": "Cefalee, amețeli"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Colangita sclerozantă primitivă se caracterizează prin următoarele, CU EXCEPȚIA:",
-        "options": {
-            "a": "Este frecvent întâlnită la bărbații de vârstă tânără",
-            "b": "Sunt prezenți anticorpi p-ANCA",
-            "c": "Valori ridicate ale FAL",
-            "d": "Valori ridicate ale bilirubinei",
-            "e": "Este frecvent întâlnită la femeile de vârstă medie"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Hematuria poate fi întâlnită în:",
-        "options": {
-            "a": "Litiază biliară ne-obstructivă",
-            "b": "Litiază biliară obstructivă",
-            "c": "Supradozaj de Vit K",
-            "d": "Doze mari de Vit. C",
-            "e": "Supradozaj de anticoagulante"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Boala Tangier se asociază cu:",
-        "options": {
-            "a": "Creșterea concentrației HDL-C",
-            "b": "Creșterea concentrației colesterolului total",
-            "c": "Creșterea LDL-C",
-            "d": "Hipertrigliceridemie",
-            "e": "Concentrații ale colesterolul total între 50-80 mg/dL"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Pacient în vârstă de 16 ani se prezintă la medic pentru: poliurie, polidipsie, fatigabilitate și scădere ponderală inexplicabilă în ultimele doua luni. Analizele de laborator arată: glicemie: 350 mg/dL, hemoglobină glicozilată (HbAlc): 11%, peptid C: 0.1 ng/mL. Ce diagnostic este cel mai probabil pentru acest pacient?",
-        "options": {
-            "a": "Diabet zaharat tip 2",
-            "b": "Diabet gestational",
-            "c": "Sindrom metabolic",
-            "d": "Diabet zaharat tip 1",
-            "e": "Diabet insipid"
-        },
-        "correct_answer": "d"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Mielomul multiplu se caracterizează prin sinteza paraproteinelor tip:",
-        "options": {
-            "a": "IgG în 25% din cazuri",
-            "b": "IgD în 25% din cazuri",
-            "c": "IgG în 50% din cazuri",
-            "d": "IgA în 50% din cazuri",
-            "e": "IgM în 50% din cazuri"
-        },
-        "correct_answer": "c"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la homocistinurie:",
-        "options": {
-            "a": "Este o boală cu transmitere autozomal dominantă",
-            "b": "Este determinată de un deficit al fenil-alanin hidroxilaza",
-            "c": "Simptomatologia bolii care include colică renală, hematurie și infecții ale tractului urinar",
-            "d": "Este determinată de reabsorbția inadecvată a cisteinei la nivel renal",
-            "e": "Este determinată de un defect al enzimei cistationin-β-sintetază"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Principalele cauze ale hipocalcemiei includ:",
-        "options": {
-            "a": "Hiperparatiroidismul",
-            "b": "Hipotiroidismul",
-            "c": "Metastaze osoase",
-            "d": "Supradozaj de vitamina D",
-            "e": "Hipoparatiroidismul"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la poliurie:",
-        "options": {
-            "a": "Apare in hiperplazia de prostată",
-            "b": "Reprezintă eliminarea întârziată a lichidelor ingerate",
-            "c": "Reprezintă eliminarea unei cantități de urină mai mică decât 150 ml/24 ore",
-            "d": "Reprezintă creșterea volumului urinar peste 1000 ml/24ore",
-            "e": "Apare în diabetul zaharat"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la IgG:",
-        "options": {
-            "a": "Sunt anticoprii principali produși în timpul răspunsului imun primar",
-            "b": "Izoaglutininele de grup sangvin ABO fac parte din această clasă",
-            "c": "Sunt Imunoglobulinele produse în concentrația cea mai mică",
-            "d": "Oferă protecție mucoaselor",
-            "e": "Sunt produse ca răspuns la un contact secundar cu un antigen"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Alegeți afirmațiile corecte referitoare la diabetul zaharat de tip 1:",
-        "options": {
-            "a": "Vârful incidenței acestei boli este după vârsta de 50 de ani",
-            "b": "Complicația acută specifică este nefropatia",
-            "c": "Complicația acută specifică este coma hiperosmolară",
-            "d": "Apare prin insulinorezistență",
-            "e": "Se datorează distrucției autoimune a celulelor B-pancreatice"
-        },
-        "correct_answer": "e"
-    },
-    {
-        "test": "Test 3 - V3",
-        "question": "Hiperlipoproteinemia de tip 1 este caracterizează de următoarele, CU EXCEPȚIA:",
-        "options": {
-            "a": "Apare în copilărie",
-            "b": "Aterogenitate crescută",
-            "c": "Deficit de lipoproteinlipază",
-            "d": "Deficit de apoproteină C-II",
-            "e": "Crește valoarea trigliceridelor"
+            "a": "Este secretată de celulele beta pancreatice",
+            "b": "Inhibă procesul de glicogenogeneză hepatică",
+            "c": "Elementele figurate sanguine nu posedă receptori specifici pentru insulină",
+            "d": "Pancreasul endocrin uman produce circa 18 - 40 UI/zi",
+            "e": "Insulina determină hipoglicemie"
         },
         "correct_answer": "b"
     },
     {
-        "test": "Test 3 - V3",
-        "question": "Virusul hepatitic D:",
+        "test": "Testul 4",
+        "question": "Bifați afirmația falsă:",
         "options": {
-            "a": "Este tip ADN",
-            "b": "Necesită prezența virusului hepatitic A",
-            "c": "Necesită prezența citomegalovirusului",
-            "d": "Este tip ARN",
-            "e": "Necesită prezența virusului hepatitic C"
+            "a": "Procainamida este antiaritmic din clasa I A",
+            "b": "Propranolol este antiaritmic din clasa II",
+            "c": "Lidocaina este antiaritmic din clasa III",
+            "d": "Verapamil este antiaritmic din clasa IV",
+            "e": "Propafenona este antiaritmic din clasa I C"
         },
-        "correct_answer": "d"
+        "correct_answer": "c"
     },
     {
-        "test": "Test V2",
-        "question": "Alegeți afirmațiile corecte referitoare la transaminaze:",
+        "test": "Testul 4",
+        "question": "Se administrează în criza de angina pectorală vasospastică sublingual:",
         "options": {
-            "a": "GGT este enzima cu cea mai mare specificitate hepatică",
-            "b": "Prezintă valori înalt crescute în hepatitele acute",
-            "c": "AST este enzima cu cea mai mare specificitate hepatică",
-            "d": "Folosesc ca și coenzimă NADH",
-            "e": "Prezintă valori înalt crescute în hepatitele cronice"
+            "a": "Nadolol",
+            "b": "Nitroglicerină",
+            "c": "Pindolol",
+            "d": "Captopril",
+            "e": "Procainamidă"
         },
         "correct_answer": "b"
     },
     {
-        "test": "Test V2",
-        "question": "Virusul hepatitic D:",
+        "test": "Testul 4",
+        "question": "Se evită folosirea heparinei la următorii bolnavi, cu excepția:",
         "options": {
-            "a": "Este tip ADN",
-            "b": "Necesită prezența virusului hepatitic A",
-            "c": "Este tip ARN",
-            "d": "Necesită prezența citomegalovirusului"
+            "a": "Tuberculoza activă",
+            "b": "Ulcer gastroduodenal activ",
+            "c": "Accident vascular cerebral hemoragic",
+            "d": "Iminența de avort",
+            "e": "Tromboze venoase profunde"
         },
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
-        "test": "Test V2",
-        "question": "Alegeți afirmațiile corecte referitoare la poliurie:",
+        "test": "Testul 4",
+        "question": "Face parte din grupul de antihipertensive neurosimpatolitice:",
         "options": {
-            "a": "Apare in hiperplazia de prostată",
-            "b": "Reprezintă eliminarea întârziată a lichidelor ingerate",
-            "c": "Apare in diabetul zaharat",
-            "d": "Reprezintă eliminarea unei cantități de urină mai mică decât 150 ml/24 ore",
-            "e": "Reprezintă creșterea volumului urinar peste 1000 ml/24 ore"
+            "a": "Prazosin",
+            "b": "Clonidina",
+            "c": "Hidralazina",
+            "d": "Rezerpina",
+            "e": "Nitroprusiat de sodiu"
         },
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
-        "test": "Test V2",
-        "question": "Hiperlipoproteinemia de tip I este caracterizează de următoarele, CU EXCEPȚIA:",
+        "test": "Testul 5",
+        "question": "Prometazina este:",
         "options": {
-            "a": "Aterogenitate crescută",
-            "b": "Apare in copilarie",
-            "c": "Deficit de lipoproteinlipază",
-            "d": "Deficit de apoproteină C-II",
-            "e": "Crește valoarea trigliceridelor"
+            "a": "Antiemetic",
+            "b": "Antisecretor gastric",
+            "c": "Stimulant al secreției gastrice",
+            "d": "Antispastic",
+            "e": "Antidiareic"
         },
         "correct_answer": "a"
     },
     {
-        "test": "Test V2",
-        "question": "În insuficiența cardiacă, la pacienții cu instalare insidioasă a simptomatologiei, este considerată diagnostică:",
+        "test": "Testul 5",
+        "question": "Bifați preparatul utilizat în criza de astm bronșic:",
         "options": {
-            "a": "o valoare a NT-proBNP peste 300pg/ml",
-            "b": "o valoare a NT-proBNP peste 125pg/ml",
-            "c": "o valuare a BNP peste 10pg/ml",
-            "d": "o valuare a BNP sub 35pg/ml",
-            "e": "o valoare a NT-proBNP peste 200pg/ml"
+            "a": "teofilina",
+            "b": "terbutalina",
+            "c": "propranolol",
+            "d": "zileuton",
+            "e": "salmeterol"
         },
         "correct_answer": "b"
     },
     {
-        "test": "Test V2",
-        "question": "Alegeți afirmațiile corecte referitoare la homocistinurie:",
+        "test": "Testul 5",
+        "question": "Pirenzepina acționează prin:",
         "options": {
-            "a": "Este o boală cu transmitere autozomal dominantă",
-            "b": "Este determinată de un deficit al fenil-alanin hidroxilaza",
-            "c": "Este determinată de un defect al enzimei cistationin-β-sintetază",
-            "d": "Simptomatologia bolii care include colică renală, hematurie și infecții ale tractului urinar",
-            "e": "Este determinată de reabsorbția inadecvată a cisteinei la nivel renal"
+            "a": "blocarea receptorilor beta 2",
+            "b": "blocarea receptorilor H2",
+            "c": "blocarea receptorilor muscarinici",
+            "d": "inhibiția fosfodiesterazelor",
+            "e": "stimularea pătrunderii calciului în celulă"
         },
         "correct_answer": "c"
     },
     {
-        "test": "Test V2",
-        "question": "Alegeți afirmațiile corecte referitoare la diabetul zaharat de tip 1:",
+        "test": "Testul 5",
+        "question": "Notați afecțiunea în care nu administrăm Domperidona:",
         "options": {
-            "a": "Vârful incidenței acestei boli este după vârsta de 50 de ani",
-            "b": "Complicația acută specifică este nefropatia",
-            "c": "Se datorează distrucției autoimune a celulelor β-pancreatice",
-            "d": "Complicația acută specifică este coma hiperosmolară",
-            "e": "Apare prin insulinorezistență"
+            "a": "dispepsia",
+            "b": "tratamentul diareei",
+            "c": "boala de reflux gastro-esofagian",
+            "d": "tratamentul constipației",
+            "e": "ileusul post-operator"
         },
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
-        "test": "Test V2",
-        "question": "Principalele cauze ale hipocalcemiei includ:",
+        "test": "Testul 5",
+        "question": "Notați diureticul antagonist competitiv al aldosteronului:",
         "options": {
-            "a": "Hiperparatiroidismul",
-            "b": "Hipotiroidismul",
-            "c": "Hipoparatiroidismul",
-            "d": "Metastaze osoase",
-            "e": "Supradozaj de vitamina D"
-        },
-        "correct_answer": "c"
-    },
-    {
-        "test": "Test V2",
-        "question": "PSA-ul este un marker tumoral utilizat pentru:",
-        "options": {
-            "a": "Cancerul mamar",
-            "b": "Tumori germinale",
-            "c": "Neoplasm ovarian",
-            "d": "Cancerul de prostată",
-            "e": "Cancer de pancreas"
+            "a": "Furosemid",
+            "b": "Triamteren",
+            "c": "Clopamida",
+            "d": "Spironolactona",
+            "e": "Bumetamida"
         },
         "correct_answer": "d"
     },
     {
-        "test": "Test V2",
-        "question": "Pacientă în vârstă de 48 de ani se prezintă în camera de gardă pentru colorarea în galben a tegumentelor și mucoaselor, durere în hipocondrul drept, greață și vărsături. Analizele de laborator arată: AST=45U/L, ALT=50U/L, gammaGT=180U/L, FA=200U/L, Lipaza=30U/L, bilirubina totală=10mg/dl, BD=8mg/dl. Care este cel mai probabil diagnostic?",
+        "test": "Testul 5",
+        "question": "Sunt efecte adverse ale glicozizilor cardiotonici, cu excepția:",
         "options": {
-            "a": "Icter prehepatic",
-            "b": "Icter mecanic"
+            "a": "perturbarea percepției culorilor",
+            "b": "bradicardie",
+            "c": "greață",
+            "d": "constipație",
+            "e": "extrasistole atriale sau ventriculare"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Furosemidul:",
+        "options": {
+            "a": "produce hiperpotasemie",
+            "b": "produce hipercalcemie",
+            "c": "blochează co-transportorul Na+, K+/2Cl",
+            "d": "blochează fixarea aldosteronului pe receptorii specifici",
+            "e": "blochează anhidraza carbonica"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Labetalolul: A. este un betaadrenomimetic; B. este un betablocant selectiv; C. blochează și receptorii alfa 1; D. poate determina creșterea tensiunii arteriale; E. se poate administra la pacienții cu angina pectorală",
+        "options": {
+            "a": "A, D",
+            "b": "A, E",
+            "c": "B, D",
+            "d": "C, D",
+            "e": "C, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Sulfatul de magneziu:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un purgativ osmotic",
+            "d": "este un citoprotector",
+            "e": "este un purgativ iritant"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Notați afirmația adevărată referitoare la verapamil:",
+        "options": {
+            "a": "este un derivat dihidropiridinic",
+            "b": "blochează enzima de conversie a angiotensinei",
+            "c": "poate determina edeme periferice",
+            "d": "determină creșterea tensiunii arteriale",
+            "e": "determină tahicardie"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 5",
+        "question": "În supradozajul de acenocumarol se administrează:",
+        "options": {
+            "a": "heparina",
+            "b": "fitomenadiona",
+            "c": "sulfat de protamină",
+            "d": "fizostigmina",
+            "e": "acid acetilsalicilic"
         },
         "correct_answer": "b"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Iodul, în cantitate mai mare de 6mg/zi, este folosit pentru:",
+        "options": {
+            "a": "tratamentul gușei endemice",
+            "b": "tratamentul tiroiditei autoimune",
+            "c": "profilaxia cretinismului endemic",
+            "d": "pregătirea preoperatorie a glandei tiroide, în caz de tumori tiroidiene",
+            "e": "tratamentul hipotiroidiei"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Afirmații adevărate privind dihidralazina:",
+        "options": {
+            "a": "are efect diuretic",
+            "b": "are efect antitusiv",
+            "c": "se asociază cu oxprenolol",
+            "d": "blochează transportorul tubular implicat în secreția tubulară de penicilină",
+            "e": "potențează efectul uricozuric al probenecidului"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Guanetidina determină:",
+        "options": {
+            "a": "inhibiția sintezei de catecolamine",
+            "b": "inhibiția eliberării de catecolamine din terminațiile simpatice",
+            "c": "inhibiția recaptării de catecolamine în terminațiile simpatice",
+            "d": "inhibiția metabolizării catecolaminelor prin blocarea MAO",
+            "e": "inhibiția metabolizării catecolaminelor prin blocarea COMT"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Afirmații adevărate privind glicozizii cardiotonici:",
+        "options": {
+            "a": "au efect inotrop negativ",
+            "b": "au efect cronotrop pozitiv",
+            "c": "au efect batmotrop negativ",
+            "d": "au efect dromotrop negativ",
+            "e": "blochează canalele de calciu"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Care din următoarele antiaritmice fac parte din clasa a 3a (blocante ale canalelor de potasiu):",
+        "options": {
+            "a": "procainamida",
+            "b": "disopiramida",
+            "c": "amiodarona",
+            "d": "propafenona",
+            "e": "xilina"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Se pot utiliza în tratamentul fibrilației atriale următoarele antiaritmice, cu excepția:",
+        "options": {
+            "a": "digoxin",
+            "b": "verapamil",
+            "c": "amiodarona",
+            "d": "atropina",
+            "e": "propranolol"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Afirmație falsă privind nitroglicerina:",
+        "options": {
+            "a": "prezintă fenomen de prima trecere hepatică",
+            "b": "scade pre- și post sarcina",
+            "c": "are efect numai la nivelul musculaturii netede vasculare",
+            "d": "determină ca efect advers cefalee pulsatilă",
+            "e": "determină tahicardie reflexă"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Sunt expectorante secretolitice:",
+        "options": {
+            "a": "ipeca",
+            "b": "codeina",
+            "c": "acetilcisteina",
+            "d": "miofilinul",
+            "e": "ipratropium"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Este bronhodilatator musculotrop:",
+        "options": {
+            "a": "salbutamolul",
+            "b": "codeina",
+            "c": "propranololul",
+            "d": "aminofilina",
+            "e": "atropina"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Este un derivat xantinic bronhodilatator:",
+        "options": {
+            "a": "Terbutalina",
+            "b": "Cromoglicat de sodiu",
+            "c": "Aminofilina",
+            "d": "Fluticazona",
+            "e": "Beclomeazona"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Bifați antitusivul central opioid:",
+        "options": {
+            "a": "Oxeladina",
+            "b": "Codeina",
+            "c": "Fenoterol",
+            "d": "Oxitropium",
+            "e": "Terbutalina"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 7",
+        "question": "O cantitate de 25% de sodiu din filtratul glomerular rămâne neabsorbită, împreună cu un echivalent osmotic de apă la administrare de:",
+        "options": {
+            "a": "Furosemid",
+            "b": "Hidroclorotiazida",
+            "c": "Indapamida",
+            "d": "Spironolactona",
+            "e": "Triamteren"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Notați antiaritmicul care blochează canalele de potasiu:",
+        "options": {
+            "a": "Amiodarona",
+            "b": "Chinidina",
+            "c": "Verapamil",
+            "d": "Propafenona",
+            "e": "Esmolol"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Blochează sinteza proteinelor bacteriene la nivelul subunității ribozomale 30 S:",
+        "options": {
+            "a": "Polimixina",
+            "b": "Ciprofloxacina",
+            "c": "Gentamicina",
+            "d": "Cefalexina",
+            "e": "Penicilina G"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Se administrează în crizele hipertensive din feocromocitom:",
+        "options": {
+            "a": "Izosorbid dinitrat",
+            "b": "Digoxin",
+            "c": "Indapmid",
+            "d": "Spironolactona",
+            "e": "Fentolamina"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Lansoprazolul se caracterizează prin:",
+        "options": {
+            "a": "Este inhibitor al pompei de protoni",
+            "b": "Neutralizează acidul clorhidric în stomac",
+            "c": "Stimulează tranzitul intestinal",
+            "d": "Crește tonusul și peristaltica vezicii biliare",
+            "e": "Este mucoprotector"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Bifați afirmația adevărată pentru Metformin:",
+        "options": {
+            "a": "Scade absorbția intestinală a glucozei",
+            "b": "Legarea insulinei de receptorii specifici este scazută",
+            "c": "Inhibă utilizarea extrapancreatică a glucozei",
+            "d": "Crește gluconeogeneza hepatică",
+            "e": "Crește nivelul plasmatic al glucagonului"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Este antiemetic prin blocarea receptorilor H1 de la nivelul sistemului nervos central:",
+        "options": {
+            "a": "Cisaprid",
+            "b": "Famotidina",
+            "c": "Prometazina",
+            "d": "Scopolamina",
+            "e": "Haloperidol"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Notați contraindicația pentru anticoagulantele orale:",
+        "options": {
+            "a": "Tromboflebite",
+            "b": "Endocardita bacteriană subacută",
+            "c": "Bolnavi cu fibrilație atrială",
+            "d": "Purtători de proteze valvulare",
+            "e": "Tromboze venoase profunde"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Notați cefalosporina care se administrează oral:",
+        "options": {
+            "a": "Cefalotina",
+            "b": "Cefaclor",
+            "c": "Cefoperazona",
+            "d": "Ceftriaxona",
+            "e": "Cefepim"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Bifați afirmația falsă referitoare la minociclină:",
+        "options": {
+            "a": "inhibă sinteza proteică bacteriană",
+            "b": "poate determina toxicitate hepatică",
+            "c": "se administrează exclusiv injectabil",
+            "d": "nu se administrează la copii sub 8 ani",
+            "e": "poate produce fotosensibilitate"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Bifați afirmația adevărată referitoare la glibenclamidă:",
+        "options": {
+            "a": "este un derivat de sulfoniluree",
+            "b": "este o biguanidă",
+            "c": "scade eliberarea de insulină de la nivelul celulelor beta pancreatice",
+            "d": "scade absorbția intestinală a glucozei",
+            "e": "se administrează subcutanat"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Carbenoxolona:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un antiacid",
+            "d": "este un citoprotector",
+            "e": "este un inhibitor al secreției gastrice"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Metamizolul este un:",
+        "options": {
+            "a": "antidiabetic",
+            "b": "antitiroidian",
+            "c": "antiaritmic",
+            "d": "analgezic",
+            "e": "antihipertensiv"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Bifați afirmația adevărată referitoare la oxeladină:",
+        "options": {
+            "a": "deprimă centrul respirației",
+            "b": "este un antitusiv central opioid",
+            "c": "este un mucosecretolitic",
+            "d": "este un bronhodilatator",
+            "e": "este un antitusiv central neopioid"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Bifați afirmația falsă referitoare la cloramfenicol:",
+        "options": {
+            "a": "este un antibiotic bactericid",
+            "b": "blochează sinteza proteinelor bacteriene",
+            "c": "poate determina supresie medulară",
+            "d": "este inactivă față de Pseudomonas",
+            "e": "poate determina sindromul cenușiu"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Este inhibitor al degranulării mastocitare administrat în astmul bronșic:",
+        "options": {
+            "a": "Beclometazona",
+            "b": "Cromoglicatul disodic",
+            "c": "Zileuton",
+            "d": "Bromura de oxitropium",
+            "e": "Efedrina"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Următoarea afirmație nu caracterizează insulina:",
+        "options": {
+            "a": "Este secretată de celulele β pancreatice",
+            "b": "Inhibă procesul de glicogenogeneză hepatică",
+            "c": "Elementele figurate sanguine nu posedă receptori specifici pentru insulină",
+            "d": "Pancreasul endocrin uman produce circa 18 - 40 UI/zi",
+            "e": "Insulina determină hipoglicemie"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Efectele terapeutice ale nitraților sunt următoarele, cu o excepție:",
+        "options": {
+            "a": "Controlează spasmul coronar",
+            "b": "Au efect relaxant pe musculatura netedă bronșică, tractul gastrointestinal",
+            "c": "Scad presarcina și, consecutiv, presiunea intraventriculară",
+            "d": "Scad postsarcina",
+            "e": "Pot induce un fenomen de 'furt' sanguin"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Este blocant al receptorilor AT1 pentru angiotensina II:",
+        "options": {
+            "a": "Enalapril",
+            "b": "Hidroclorotiazida",
+            "c": "Nifedipina",
+            "d": "Propranolol",
+            "e": "Valsartan"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Bifați mecanismul de acțiune pentru Acenocumarol:",
+        "options": {
+            "a": "Inhibă procesul de carboxilare a factorilor II, VII, IX, X la nivel hepatic",
+            "b": "Inhibă factorul Xa",
+            "c": "Inactivează trombina",
+            "d": "Activează antitrombina III",
+            "e": "Inhibă ireversibil ciclooxigenaza"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Notați utilizarea sulfatului de protamină:",
+        "options": {
+            "a": "Hemoragii determinate de supradozarea heparinei",
+            "b": "Bolnavi cu stenoză mitrală",
+            "c": "Embolii pulmonare",
+            "d": "Fibrilație atrială",
+            "e": "Bolnavi cu proteze valvulare"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Ce clasă de antibiotice este nefrotoxică:",
+        "options": {
+            "a": "Peniciline",
+            "b": "Aminoglicozide",
+            "c": "Sulfamide",
+            "d": "Inhibitorii de beta-lactamază",
+            "e": "Macrolide"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Bifați indicația Lidocainei:",
+        "options": {
+            "a": "Edeme",
+            "b": "Angina pectorală",
+            "c": "HTA",
+            "d": "Insuficiența cardiacă",
+            "e": "Tahiaritmii ventriculare în infarct miocardic"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Bronhodilatatoarele anticolinergice se caracterizează prin:",
+        "options": {
+            "a": "Administrare orală",
+            "b": "Se fixează pe receptorii muscarinici M3 de la nivel bronșic",
+            "c": "Facilitează acțiunea acetilcolinei",
+            "d": "Bromura de ipratropium are durata lungă de acțiune",
+            "e": "Nu se asociază cu agoniști beta2 adrenergici inhalatori"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Următorul efect caracterizează Prazosinul:",
+        "options": {
+            "a": "Se administrează în insuficiența coronariană",
+            "b": "Crește LDL-colesterol",
+            "c": "Scade HDL-colesterol",
+            "d": "Scade frecvența cardiacă",
+            "e": "La prima doză produce hipotensiune posturală"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Notați antibioticul care blochează sinteza peretelui bacterian:",
+        "options": {
+            "a": "Norfloxacin",
+            "b": "Metronidazol",
+            "c": "Cefuroxim",
+            "d": "Gentamicina",
+            "e": "Eritromicina"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Extractul de Cynara Scolimus are următorul efect:",
+        "options": {
+            "a": "Antiulceros",
+            "b": "Antiemetic",
+            "c": "Coleretic",
+            "d": "Antidiareic",
+            "e": "Prokinetic"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Care este mecanismul de acțiune pentru glicozizii cardiotonici:",
+        "options": {
+            "a": "Inhibă Na+/K+-ATP-aza, prin cuplarea pe situsul pentru ionul de potasiu",
+            "b": "Blochează enzima de conversie a angiotensinei",
+            "c": "Reduc secreția de renina",
+            "d": "Au efect vasodilatator",
+            "e": "Sunt antagoniști ai receptorilor betaadrenergici"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Notați afirmația falsă despre ambroxol:",
+        "options": {
+            "a": "Este metabolit al bromhexinului",
+            "b": "Crește vâscozitatea secrețiilor bronșice",
+            "c": "Favorizează expectorația",
+            "d": "Se administrează oral 30 mg de 2 ori pe zi",
+            "e": "Rareori produce tulburări digestive"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Pirenzepina are următorul efect farmacodinamic:",
+        "options": {
+            "a": "Scade secreția gastrică bazală și pe cea stimulată",
+            "b": "Blochează pompa de protoni",
+            "c": "În mediul acid gastric transformă acidul sulfenic în sulfenamidă",
+            "d": "Este citoprotector",
+            "e": "Crește secreția salivară"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Mecanismul de acțiune pentru Propafenona este:",
+        "options": {
+            "a": "Blochează canalele de sodiu",
+            "b": "Blochează ATP-aza Na/K",
+            "c": "Blochează receptorii β1 adrenergici de la nivelul cordului",
+            "d": "Blochează canalele de potasiu",
+            "e": "Blochează canalele de calciu"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Următoarea afirmație referitoare la medicația antidiabetică este adevărată:",
+        "options": {
+            "a": "Biguanidele antidiabetice sunt indicate în tratamentul diabetului zaharat insulino-dependent",
+            "b": "Biguanidele se indică în cetoacidoza diabetică",
+            "c": "Clorpropamida are un timp de înjumătățire plasmatic lung",
+            "d": "Buforminul se administrează cu o oră înainte de masă",
+            "e": "Glucagonul este un polipeptid cu 29 de aminoacizi produs de celulele β ale insulelor Langerhans"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Furosemidul are următorul mecanism de acțiune:",
+        "options": {
+            "a": "Blochează co-transportorul Na+,K+/2Cl-",
+            "b": "Reduce absorbția de Na+ la nivelul tubului contort distal",
+            "c": "Inhibă anhidraza carbonica",
+            "d": "Blochează fixarea aldosteronului pe receptorii specifici",
+            "e": "Crește diureza prin mecanism osmotic"
+        },
+        "correct_answer": "a"
     }
 ]

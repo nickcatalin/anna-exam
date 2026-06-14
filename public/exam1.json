@@ -1,0 +1,596 @@
+[
+    {
+        "test": "Test 1 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la metabolismul calciului:",
+        "options": {
+            "a": "PTH mobilizează calciul în oase",
+            "b": "PTH scade excreția fosfatului",
+            "c": "PTH scade reabsorbția tubulară a calciului",
+            "d": "Calcitonina inhibă activitatea osteoclastelor",
+            "e": "Calcitonina are efect hipercalcemiant"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Sunt markeri ai riscului de boală coronariană și al instabilității plăcii de aterom, CU EXCEPȚIA:",
+        "options": {
+            "a": "mieloperoxidaza",
+            "b": "proteina C reactivă",
+            "c": "fibrinogenul",
+            "d": "lipoproteina (a)",
+            "e": "homocistina"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Valori crescute ale fosfatazei alcaline osoase pot fi întâlnite în:",
+        "options": {
+            "a": "Colecistită",
+            "b": "Icter mecanic",
+            "c": "Boala Paget",
+            "d": "Carcinom de prostată",
+            "e": "Colangită sclerozantă"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Pacient în vârstă de 20 de ani se prezintă la medicul de familie pentru astenie fizică și palpitații. La examenul obiectiv prezintă paloare tegumentară și discretă colorare în galben a sclerelor. Bilirubină totală 2.8mg/dl (v.n. 0.2-1mg/dl); bilirubină directă 0.2mg/dl (v.n. 0-0.2mg/dl), AST=29U/L (v.n. 5-35U/L), ALT=25U/L (v.n. 7-45U/L), FA=80U/L (v.n. 0-115U/L), Hematii 2.5mil/mmc (v.n. 4-5.5mil/mmc), Hb=8.3g/dl (v.n. 12-15g/dl). Sumar de urină: Bilirubina -, Urobilinogen ++++. Profilul biochimic este specific pentru:",
+        "options": {
+            "a": "Icter obstructiv",
+            "b": "Icter hepatic",
+            "c": "Icter mecanic",
+            "d": "Icter hemolitic",
+            "e": "Icter posthepatic"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Hipobetalipoproteinemia se asociază cu următoarele:",
+        "options": {
+            "a": "mutații la nivelul genei care codifică apo A",
+            "b": "deficite neurologice și oftalmologice severe",
+            "c": "mutații la nivelul genei care codifică apo C-II",
+            "d": "risc crescut de apariție a bolilor cardiovasculare",
+            "e": "scăderea HDL-C"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Imunelectroforeza serică în boala hepatică virală arată:",
+        "options": {
+            "a": "Scăderea IgM",
+            "b": "Creșterea IgA",
+            "c": "Scăderea IgA",
+            "d": "Creșterea IgM",
+            "e": "Creșterea IgD"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Mielomul multiplu se caracterizează prin următoarele, CU EXCEPȚIA:",
+        "options": {
+            "a": "sindrom de retenție azotată",
+            "b": "hipercalcemie",
+            "c": "sindrom de citoliză hepatică",
+            "d": "o concentrație serică normală de fosfatază alcalină este considerată foarte sugestivă în asociere cu leziuni osoase severe",
+            "e": "hiperproteinemie cu hipoalbuminemie"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "În funcție de severitate, proteinuria se poate clasifica astfel:",
+        "options": {
+            "a": "proteinurie severă, peste 5g/24 ore",
+            "b": "proteinurie severă 0.5-4 g/24 ore",
+            "c": "proteinurie avansată, 1-5 g/24 ore",
+            "d": "proteinurie severă, peste 4g/24 ore",
+            "e": "proteinurie redusă, sub 1 g/24 ore"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "AFP este un marker tumoral utilizat pentru:",
+        "options": {
+            "a": "Tumori germinale",
+            "b": "Neuroblastom",
+            "c": "Cancerul de prostată",
+            "d": "Neoplasm tiroidian",
+            "e": "Cancer de pancreas"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la fenilcetonurie:",
+        "options": {
+            "a": "Forma atipică este determinată de un deficit al coenzimei BH4",
+            "b": "Este caracterizată de prezența calculilor renali",
+            "c": "Este o boală cu transmitere autozomal dominantă",
+            "d": "Forma clasică este determinată de un deficit al fenil-alanin dehidrogenazei",
+            "e": "Forma atipică este determinată de un deficit al fenil-alanin hidroxilazei"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Modificările metabolice în diabetul zaharat tip 1 cuprind următoarele modificări, CU EXCEPȚIA:",
+        "options": {
+            "a": "Hipocolesterolemie",
+            "b": "Creșterea sintezei de lipoproteine cu densitate foarte joasă (VLDL)",
+            "c": "Deficit de lipoprotein-lipază, care determină creșterea chilomicronilor și VLDL",
+            "d": "Hiperglicemie",
+            "e": "Hipertriglicerolemie"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Prezența de anti-HCV pozitivi asociată cu ARN HCV negativ poate fi întâlnită în:",
+        "options": {
+            "a": "Absența infecției",
+            "b": "Rezoluție după infecția acută/cronică",
+            "c": "Infecția acută precoce",
+            "d": "Rezultat pozitiv ARN HCV"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Hepatita autoimună de tip 1 este caracterizată de prezența în procent de 20-100% a:",
+        "options": {
+            "a": "Anti-LKM1",
+            "b": "Anti-LC1",
+            "c": "Anti-SLA",
+            "d": "ASMA",
+            "e": "Anti-ANA"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Pacient în vârstă de 18 ani este adus în camera de gardă dezorientat, confuz cu respirație rapidă și profundă (tip Kussmaul), simptomatologie debutată brusc după ora de educație fizică. Analize biochimice: glicemie 500 mg/dL, pH arterial: 7.1, HCO3-: 12 mEq/L, creatin kinaza (CK): 200 U/L, corpi cetonici în urină: Pozitiv (+++). Ce diagnostic este cel mai probabil pentru acest pacient?",
+        "options": {
+            "a": "Diabet zaharat tip 1 cu cetoacidoză",
+            "b": "Hiperglicemie fără cetoacidoză",
+            "c": "Diabet zaharat tip 2 cu hiperosmolaritate",
+            "d": "Acidoză lactică",
+            "e": "Insuficiență renală acută"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la carcinomul hepatocelular:",
+        "options": {
+            "a": "Reprezintă a doua cauză de cancer în lume",
+            "b": "Infecția cu virus hepatitic C este factor de risc",
+            "c": "Reprezintă a treia cauză de cancer în lume",
+            "d": "Infecția cu virus hepatitic A este factor de risc",
+            "e": "CA 19-9 este marker serologic specific"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Simptomatologia hipoglicemiei cuprinde următoarele, CU EXCEPȚIA:",
+        "options": {
+            "a": "Cefalee",
+            "b": "Confuzie",
+            "c": "Deces",
+            "d": "Scădere ponderală",
+            "e": "Amețeli"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Hiperlipoproteinemia de tip IIa:",
+        "options": {
+            "a": "Apare în copilărie",
+            "b": "Aterogenitate crescută",
+            "c": "Deficit de lipoproteinlipază",
+            "d": "Crește valoarea trigliceridelor"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la poliurie:",
+        "options": {
+            "a": "Nu poate fi întâlnită în pielonefrite",
+            "b": "Apare în diabetul insipid",
+            "c": "Este caracterizată de jenă la micțiune cu sau fără dureri",
+            "d": "Reprezintă eliminarea unei cantități de urină mai mică decât 150 ml/24 ore",
+            "e": "Este caracterizată de micțiuni frecvente și reduse cantitativ"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la transferină:",
+        "options": {
+            "a": "Menține presiunea coloid-osmotică",
+            "b": "Este un marker tumoral folosit în cancerele colo-rectale",
+            "c": "Este o glicoproteină sintetizată hepatic",
+            "d": "Scăderi ale proteinei se asociază cu boala Wilson",
+            "e": "Are rol în transportul cuprului"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test 1 - V3",
+        "question": "Sindromul Gilbert se caracterizează prin, CU EXCEPȚIA:",
+        "options": {
+            "a": "Este o afecțiune cu transmitere autozomal dominantă",
+            "b": "Este caracterizat de scăderea UDP-glucuronil transferazei",
+            "c": "Bilirubina serică are valori peste 20mg/dl",
+            "d": "Icterul apare intermitent",
+            "e": "Bilirubina serică nu depășește de obicei 3mg/dl"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Pacientă în vârstă de 48 de ani se prezintă în camera de gardă pentru colorarea în galben a tegumentelor și mucoaselor, durere în hipocondrul drept, greață și vărsături. Analizele de laborator arată: AST=45U/L, ALT=50U/L, gammaGT=180U/L, FA=200U/L, Lipaza=30U/L, bilirubina totală=10mg/dl, BD=8mg/dl. Care este cel mai probabil diagnostic?",
+        "options": {
+            "a": "Icter prehepatic",
+            "b": "Icter mecanic",
+            "c": "Icter hemolitic",
+            "d": "Icter hepatic",
+            "e": "Icter fiziologic"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la sindromul Crigler-Najar tip 2:",
+        "options": {
+            "a": "Este caracterizată de scăderea activității biliverdin reductazei",
+            "b": "Este caracterizat de scăderea UDP-glucuronil transferazei",
+            "c": "Este o afecțiune cu transmitere autozomal recesivă",
+            "d": "Bilirubina serică are valori sub 1mg/dl",
+            "e": "Bilirubina serică are valori peste 20mg/dl"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "În insuficiența cardiacă, la pacienții cu instalare insidioasă a simptomatologiei, este considerată diagnostică:",
+        "options": {
+            "a": "o valoare a NT-proBNP peste 125pg/ml",
+            "b": "o valoare a NT-proBNP peste 300pg/ml",
+            "c": "o valoare a BNP peste 10pg/ml",
+            "d": "o valoare a BNP sub 35pg/ml",
+            "e": "o valoare a NT-proBNP peste 200pg/ml"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "PSA-ul este un marker tumoral utilizat pentru:",
+        "options": {
+            "a": "Cancerul mamar",
+            "b": "Tumori germinale",
+            "c": "Neoplasm ovarian",
+            "d": "Cancerul de prostată",
+            "e": "Cancer de pancreas"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la transaminaze:",
+        "options": {
+            "a": "Prezintă valori înalt crescute în hepatitele acute",
+            "b": "GGT este enzima cu cea mai mare specificitate hepatică",
+            "c": "AST este enzima cu cea mai mare specificitate hepatică",
+            "d": "Folosesc ca și coenzimă NADH",
+            "e": "Prezintă valori înalt crescute în hepatitele cronice"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Scorul Ranson la internare utilizează următoarele, CU EXCEPȚIA:",
+        "options": {
+            "a": "Uree > 5mg/dl",
+            "b": "Leucocite > 16000/mmc",
+            "c": "Varsta > 55ani",
+            "d": "Glicemie > 200mg/dl",
+            "e": "LDH > 350U/L"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Alegeți afirmația FALSA referitoare la scorul Child-Pugh:",
+        "options": {
+            "a": "Este folosit pentru evaluarea prognosticului pacienților cu ciroza hepatică",
+            "b": "Cuprinde albumina serica",
+            "c": "Cuprinde bilirubina totală",
+            "d": "Cuprinde transtiretina",
+            "e": "Cuprinde INR-ul"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Hipoglicemia se caracterizează prin:",
+        "options": {
+            "a": "Valori ale glicemiei peste 100mg/dl",
+            "b": "Valori ale glicemiei sub 200mg/dl",
+            "c": "Scădere ponderală",
+            "d": "Poliurie, polidipsie",
+            "e": "Cefalee, amețeli"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Colangita sclerozantă primitivă se caracterizează prin următoarele, CU EXCEPȚIA:",
+        "options": {
+            "a": "Este frecvent întâlnită la bărbații de vârstă tânără",
+            "b": "Sunt prezenți anticorpi p-ANCA",
+            "c": "Valori ridicate ale FAL",
+            "d": "Valori ridicate ale bilirubinei",
+            "e": "Este frecvent întâlnită la femeile de vârstă medie"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Hematuria poate fi întâlnită în:",
+        "options": {
+            "a": "Litiază biliară ne-obstructivă",
+            "b": "Litiază biliară obstructivă",
+            "c": "Supradozaj de Vit K",
+            "d": "Doze mari de Vit. C",
+            "e": "Supradozaj de anticoagulante"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Boala Tangier se asociază cu:",
+        "options": {
+            "a": "Creșterea concentrației HDL-C",
+            "b": "Creșterea concentrației colesterolului total",
+            "c": "Creșterea LDL-C",
+            "d": "Hipertrigliceridemie",
+            "e": "Concentrații ale colesterolul total între 50-80 mg/dL"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Pacient în vârstă de 16 ani se prezintă la medic pentru: poliurie, polidipsie, fatigabilitate și scădere ponderală inexplicabilă în ultimele doua luni. Analizele de laborator arată: glicemie: 350 mg/dL, hemoglobină glicozilată (HbAlc): 11%, peptid C: 0.1 ng/mL. Ce diagnostic este cel mai probabil pentru acest pacient?",
+        "options": {
+            "a": "Diabet zaharat tip 2",
+            "b": "Diabet gestational",
+            "c": "Sindrom metabolic",
+            "d": "Diabet zaharat tip 1",
+            "e": "Diabet insipid"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Mielomul multiplu se caracterizează prin sinteza paraproteinelor tip:",
+        "options": {
+            "a": "IgG în 25% din cazuri",
+            "b": "IgD în 25% din cazuri",
+            "c": "IgG în 50% din cazuri",
+            "d": "IgA în 50% din cazuri",
+            "e": "IgM în 50% din cazuri"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la homocistinurie:",
+        "options": {
+            "a": "Este o boală cu transmitere autozomal dominantă",
+            "b": "Este determinată de un deficit al fenil-alanin hidroxilaza",
+            "c": "Simptomatologia bolii care include colică renală, hematurie și infecții ale tractului urinar",
+            "d": "Este determinată de reabsorbția inadecvată a cisteinei la nivel renal",
+            "e": "Este determinată de un defect al enzimei cistationin-β-sintetază"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Principalele cauze ale hipocalcemiei includ:",
+        "options": {
+            "a": "Hiperparatiroidismul",
+            "b": "Hipotiroidismul",
+            "c": "Metastaze osoase",
+            "d": "Supradozaj de vitamina D",
+            "e": "Hipoparatiroidismul"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la poliurie:",
+        "options": {
+            "a": "Apare in hiperplazia de prostată",
+            "b": "Reprezintă eliminarea întârziată a lichidelor ingerate",
+            "c": "Reprezintă eliminarea unei cantități de urină mai mică decât 150 ml/24 ore",
+            "d": "Reprezintă creșterea volumului urinar peste 1000 ml/24ore",
+            "e": "Apare în diabetul zaharat"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la IgG:",
+        "options": {
+            "a": "Sunt anticoprii principali produși în timpul răspunsului imun primar",
+            "b": "Izoaglutininele de grup sangvin ABO fac parte din această clasă",
+            "c": "Sunt Imunoglobulinele produse în concentrația cea mai mică",
+            "d": "Oferă protecție mucoaselor",
+            "e": "Sunt produse ca răspuns la un contact secundar cu un antigen"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Alegeți afirmațiile corecte referitoare la diabetul zaharat de tip 1:",
+        "options": {
+            "a": "Vârful incidenței acestei boli este după vârsta de 50 de ani",
+            "b": "Complicația acută specifică este nefropatia",
+            "c": "Complicația acută specifică este coma hiperosmolară",
+            "d": "Apare prin insulinorezistență",
+            "e": "Se datorează distrucției autoimune a celulelor B-pancreatice"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Hiperlipoproteinemia de tip 1 este caracterizează de următoarele, CU EXCEPȚIA:",
+        "options": {
+            "a": "Apare în copilărie",
+            "b": "Aterogenitate crescută",
+            "c": "Deficit de lipoproteinlipază",
+            "d": "Deficit de apoproteină C-II",
+            "e": "Crește valoarea trigliceridelor"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test 3 - V3",
+        "question": "Virusul hepatitic D:",
+        "options": {
+            "a": "Este tip ADN",
+            "b": "Necesită prezența virusului hepatitic A",
+            "c": "Necesită prezența citomegalovirusului",
+            "d": "Este tip ARN",
+            "e": "Necesită prezența virusului hepatitic C"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test V2",
+        "question": "Alegeți afirmațiile corecte referitoare la transaminaze:",
+        "options": {
+            "a": "GGT este enzima cu cea mai mare specificitate hepatică",
+            "b": "Prezintă valori înalt crescute în hepatitele acute",
+            "c": "AST este enzima cu cea mai mare specificitate hepatică",
+            "d": "Folosesc ca și coenzimă NADH",
+            "e": "Prezintă valori înalt crescute în hepatitele cronice"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test V2",
+        "question": "Virusul hepatitic D:",
+        "options": {
+            "a": "Este tip ADN",
+            "b": "Necesită prezența virusului hepatitic A",
+            "c": "Este tip ARN",
+            "d": "Necesită prezența citomegalovirusului"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test V2",
+        "question": "Alegeți afirmațiile corecte referitoare la poliurie:",
+        "options": {
+            "a": "Apare in hiperplazia de prostată",
+            "b": "Reprezintă eliminarea întârziată a lichidelor ingerate",
+            "c": "Apare in diabetul zaharat",
+            "d": "Reprezintă eliminarea unei cantități de urină mai mică decât 150 ml/24 ore",
+            "e": "Reprezintă creșterea volumului urinar peste 1000 ml/24 ore"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test V2",
+        "question": "Hiperlipoproteinemia de tip I este caracterizează de următoarele, CU EXCEPȚIA:",
+        "options": {
+            "a": "Aterogenitate crescută",
+            "b": "Apare in copilarie",
+            "c": "Deficit de lipoproteinlipază",
+            "d": "Deficit de apoproteină C-II",
+            "e": "Crește valoarea trigliceridelor"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Test V2",
+        "question": "În insuficiența cardiacă, la pacienții cu instalare insidioasă a simptomatologiei, este considerată diagnostică:",
+        "options": {
+            "a": "o valoare a NT-proBNP peste 300pg/ml",
+            "b": "o valoare a NT-proBNP peste 125pg/ml",
+            "c": "o valuare a BNP peste 10pg/ml",
+            "d": "o valuare a BNP sub 35pg/ml",
+            "e": "o valoare a NT-proBNP peste 200pg/ml"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Test V2",
+        "question": "Alegeți afirmațiile corecte referitoare la homocistinurie:",
+        "options": {
+            "a": "Este o boală cu transmitere autozomal dominantă",
+            "b": "Este determinată de un deficit al fenil-alanin hidroxilaza",
+            "c": "Este determinată de un defect al enzimei cistationin-β-sintetază",
+            "d": "Simptomatologia bolii care include colică renală, hematurie și infecții ale tractului urinar",
+            "e": "Este determinată de reabsorbția inadecvată a cisteinei la nivel renal"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test V2",
+        "question": "Alegeți afirmațiile corecte referitoare la diabetul zaharat de tip 1:",
+        "options": {
+            "a": "Vârful incidenței acestei boli este după vârsta de 50 de ani",
+            "b": "Complicația acută specifică este nefropatia",
+            "c": "Se datorează distrucției autoimune a celulelor β-pancreatice",
+            "d": "Complicația acută specifică este coma hiperosmolară",
+            "e": "Apare prin insulinorezistență"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test V2",
+        "question": "Principalele cauze ale hipocalcemiei includ:",
+        "options": {
+            "a": "Hiperparatiroidismul",
+            "b": "Hipotiroidismul",
+            "c": "Hipoparatiroidismul",
+            "d": "Metastaze osoase",
+            "e": "Supradozaj de vitamina D"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Test V2",
+        "question": "PSA-ul este un marker tumoral utilizat pentru:",
+        "options": {
+            "a": "Cancerul mamar",
+            "b": "Tumori germinale",
+            "c": "Neoplasm ovarian",
+            "d": "Cancerul de prostată",
+            "e": "Cancer de pancreas"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Test V2",
+        "question": "Pacientă în vârstă de 48 de ani se prezintă în camera de gardă pentru colorarea în galben a tegumentelor și mucoaselor, durere în hipocondrul drept, greață și vărsături. Analizele de laborator arată: AST=45U/L, ALT=50U/L, gammaGT=180U/L, FA=200U/L, Lipaza=30U/L, bilirubina totală=10mg/dl, BD=8mg/dl. Care este cel mai probabil diagnostic?",
+        "options": {
+            "a": "Icter prehepatic",
+            "b": "Icter mecanic"
+        },
+        "correct_answer": "b"
+    }
+]
