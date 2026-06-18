@@ -74,9 +74,10 @@ export default function Quiz() {
   const current = order[idx];
   const finished = order.length > 0 && idx >= order.length;
 
-  // stable option letters for current question
+  // option letters in a randomized display order (kept stable per question);
+  // each option keeps its own letter, only the on-screen order is shuffled.
   const optionKeys = useMemo(
-    () => (current ? Object.keys(current.options) : []),
+    () => (current ? shuffle(Object.keys(current.options)) : []),
     [current],
   );
   const answers = useMemo(() => (current ? correctKeys(current) : []), [current]);
@@ -204,11 +205,9 @@ export default function Quiz() {
           <span className="inline-block rounded-full bg-accent-soft px-3 py-1 text-xs font-semibold uppercase tracking-wide text-accent-deep">
             {current.test}
           </span>
-          {isMulti && (
-            <span className="inline-block rounded-full bg-line px-3 py-1 text-xs font-semibold uppercase tracking-wide text-muted">
-              {answers.length} răspunsuri corecte
-            </span>
-          )}
+          <span className="inline-block rounded-full bg-line px-3 py-1 text-xs font-semibold uppercase tracking-wide text-muted">
+            {isMulti ? "Complement Multiplu" : "Complement Simplu"}
+          </span>
         </div>
         <h2 className="mt-4 text-lg font-semibold leading-relaxed tracking-tight sm:text-xl">
           {current.question}
