@@ -3993,5 +3993,1240 @@
       "a"
     ],
     "correct_answer": "a"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Rectoragia este:",
+    "options": {
+      "a": "scurgere de sange prin nas",
+      "b": "scaun negru, lucios",
+      "c": "eliminarea de sange rosu prin anus",
+      "d": "sangerare din teaca muschiului drept abdominal",
+      "e": "sangerare vaginala"
+    },
+    "correct_answers": [
+      "c"
+    ],
+    "correct_answer": "c",
+    "number": 1,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "O bolnava in varsta de 50 ani, supraponderala, cu numeroase colici biliare in antecedente, prezinta dureri violente localizate in hipocondrul drept, ce au debutat dupa consum de alimente grase si se insotesc de febra, frisoane si varsaturi bilioase. Avand in vedere antecedentele bolnavei si simptomele bolii care din urmatoarele investigatii este utila de prima intentie in stabilirea diagnosticului:",
+    "options": {
+      "a": "tranzitul baritat",
+      "b": "punctia biopsie hepatica",
+      "c": "ecografia abdominala",
+      "d": "irigografia",
+      "e": "scintigrafia hepatobiliara"
+    },
+    "correct_answers": [
+      "c"
+    ],
+    "correct_answer": "c",
+    "number": 3,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care este agentul etiologic al erizipelului?",
+    "options": {
+      "a": "bacilul perfringens",
+      "b": "streptococul betahemolitic grup A",
+      "c": "bacilul Colli",
+      "d": "bacilul piocianic",
+      "e": "stafilococul aureu"
+    },
+    "correct_answers": [
+      "b"
+    ],
+    "correct_answer": "b",
+    "number": 4,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Despre durere in ulcerul duodenal sunt adevarate urmatoarele afirmatii:",
+    "options": {
+      "a": "Este agravata de ingestia de alimente",
+      "b": "Are periodicitate sezoniera cu acutizare vara si iarna",
+      "c": "Este localizata in zona epigastrica mediana sau paraombilical drept",
+      "d": "Este frecvent insotita de varsaturi cu aspect de hematemeza",
+      "e": "Caracterul durerii se modifica iradiind posterior in ulcerele perforate"
+    },
+    "correct_answers": [
+      "c"
+    ],
+    "correct_answer": "c",
+    "number": 5,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Cea mai frecventa complicatie a diverticulului Meckel este:",
+    "options": {
+      "a": "hemoragia",
+      "b": "ocluzia intestinala",
+      "c": "transformarea tumorala",
+      "d": "inflamatia",
+      "e": "hernia"
+    },
+    "correct_answers": [
+      "d"
+    ],
+    "correct_answer": "d",
+    "number": 6,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Sindromul esofagian este caracterizat de urmatoarele, cu exceptia:",
+    "options": {
+      "a": "disfagie",
+      "b": "durere retrosternala",
+      "c": "sughit",
+      "d": "sialoree",
+      "e": "regurgitatii"
+    },
+    "correct_answers": [
+      "c"
+    ],
+    "correct_answer": "c",
+    "number": 7,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Melena se caracterizeaza prin:",
+    "options": {
+      "a": "Emisia de sange digerat sub forma unui scaun negru, lucios, neformat",
+      "b": "Nu are miros",
+      "c": "Este specifica hemoragiilor organelor aparatului urinar",
+      "d": "Se mai numeste si hematochezie",
+      "e": "Scaun cu sange incomplet digerat de culoarea visinei putrede."
+    },
+    "correct_answers": [
+      "a"
+    ],
+    "correct_answer": "a",
+    "number": 8,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Melena se caracterizeaza prin:",
+    "options": {
+      "a": "Emisia de sange digerat sub forma unui scaun negru, lucios, neformat",
+      "b": "Nu are miros",
+      "c": "Este specifica hemoragiilor organelor aparatului urinar",
+      "d": "Se mai numeste si hematochezie",
+      "e": "Scaun cu sange incomplet digerat de culoarea visinei putrede."
+    },
+    "correct_answers": [
+      "a"
+    ],
+    "correct_answer": "a",
+    "number": 8,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Prin H.D.S. se intelege:",
+    "options": {
+      "a": "pierderea de sange la nivelul tubului digestiv indiferent de localizarea sursei",
+      "b": "toate hemoragiile care provin din treimea distala a esofagului pana la unghiul duodeno-jejunal",
+      "c": "pierderea de sange din cavitatea bucala si faringe",
+      "d": "pierderea de sange de la nivelul intestinului subtire",
+      "e": "pierderea de sange din colon si rect"
+    },
+    "correct_answers": [
+      "b"
+    ],
+    "correct_answer": "b",
+    "number": 9,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Ocluzia intestinala este sindromul abdominal acut caracterizat de:",
+    "options": {
+      "a": "greturile",
+      "b": "varsaturile",
+      "c": "intreruperea completa si persistenta a tranzitului intestinal pentru materii fecale si gaze",
+      "d": "durerea abdominala",
+      "e": "meteorismul abdominal"
+    },
+    "correct_answers": [
+      "c"
+    ],
+    "correct_answer": "c",
+    "number": 10,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Contuzia de parti moi prin stivire (sindrom Bywaters) evolueaza clinic:",
+    "options": {
+      "a": "in trei perioade: strivire - stare soc grava - insuficienta renala acuta",
+      "b": "in doua perioade: strivire si insuficienta renala acuta",
+      "c": "in trei perioade: soc - strivire - insuficienta respiratorie",
+      "d": "nu exista o clasificare clara",
+      "e": "este mortala in toate cazurile"
+    },
+    "correct_answers": [
+      "a"
+    ],
+    "correct_answer": "a",
+    "number": 11,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Tumorile viloase rectale:",
+    "options": {
+      "a": "Sunt exclusiv tumori benigne",
+      "b": "Apar cel mai frecvent la tineri sub 20 de ani",
+      "c": "Au sediul de predilectie la nivelul ampulei rectale",
+      "d": "Sunt tumori de consistenta dura",
+      "e": "Se complica cel mai frecvent cu ocluzia intestinala"
+    },
+    "correct_answers": [
+      "c"
+    ],
+    "correct_answer": "c",
+    "number": 13,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Caracteristic pentru localizarea colo-rectala a bolii Crohn este:",
+    "options": {
+      "a": "Frecventa mare a asocierii cancerului rectal",
+      "b": "Frecventa mare a asocierii leziunilor ano-perineale",
+      "c": "Asocierea frecventa cu tumorile carcinoide",
+      "d": "Asocierea frecventa cu diverticulul Meckel",
+      "e": "Prezenta de tulburari de tranzit de tip constipatie"
+    },
+    "correct_answers": [
+      "b"
+    ],
+    "correct_answer": "b",
+    "number": 14,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Durerea venoasa la nivelul membrelor inferioare este favorizata de:",
+    "options": {
+      "a": "clinostatismul prelungit",
+      "b": "ortostatismul prelungit",
+      "c": "mersul pe jos",
+      "d": "suferinta arteriala",
+      "e": "suferinta articulara"
+    },
+    "correct_answers": [
+      "b"
+    ],
+    "correct_answer": "b",
+    "number": 15,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care din urmatoarele afirmatii referitoare la realizarea hemostazei folosind garoul, sunt adevarate:",
+    "options": {
+      "a": "oprirea sangerarii este o dovada a aplicarii corecte a acestuia",
+      "b": "socul de degarotare apare daca garoul a fost mentinut mai putin de 10 minute",
+      "c": "aplicarea garoului face parte din metodele de hemostaza definitiva",
+      "d": "la garou se aplica un bilet cu ora aplicarii, diagnosticul si numele pacientului",
+      "e": "garoul trebuie mentinut pe o durata mai scurta de 30 minute"
+    },
+    "correct_answers": [
+      "a",
+      "d",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 16,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Semnele clasice de malignitate in cancerul mamar sunt:",
+    "options": {
+      "a": "duritatea tumorii,",
+      "b": "contur neregulat si difuz,",
+      "c": "pastrarea mobilitatii tumorii in parenchimul glandular,",
+      "d": "aderenta la tegumente,",
+      "e": "retractia mamelonara si prezenta adenopatiei palpabile."
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 17,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Urmatoarele afirmatii legate de faza acuta a esofagitei acute postcaustice sunt adevarate:",
+    "options": {
+      "a": "dureaza cateva saptamani",
+      "b": "sindromul esofagian se instaleaza brusc si este complet",
+      "c": "se poate complica cu mediastinita prin perforatie",
+      "d": "se poate complica cu hemoragie",
+      "e": "se poate insoti de stare de soc"
+    },
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "correct_answer": "b",
+    "number": 19,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care sunt conditiile ce trebuie sa le intruneasca un antibiotic:",
+    "options": {
+      "a": "Sa fie activ pe germenii potential periculosi",
+      "b": "sa nu induca rezistenta bacteriana",
+      "c": "sa poata fi administrat numai intramuscular",
+      "d": "sa nu interfereze cu produsele anestezice",
+      "e": "sa poata fi administrat usor"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 20,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Hemostaza definitiva se poate realiza prin urmatoarele metode:",
+    "options": {
+      "a": "ligatura vasculara",
+      "b": "compresiune circulara cu garoul",
+      "c": "pensarea provizorie a vasului",
+      "d": "cauterizarea electrica",
+      "e": "sutura vasculara"
+    },
+    "correct_answers": [
+      "a",
+      "d",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 21,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Caracterele semiologice generale ale tumorilor maligne sunt:",
+    "options": {
+      "a": "Respecta membrana bazala",
+      "b": "Daca sunt dezvoltate in parenchim, sunt delimitate de capsula conjunctiva",
+      "c": "Sunt rau delimitate, invadeaza si distrug tesuturile vecine",
+      "d": "Au un metabolism mult crescut fata de metabolismul celulelor gazda (sunt mari consumatoare de energie)",
+      "e": "In evolutie devin fixe pe tesuturile subiacente sau superficiale datorita invaziei locale."
+    },
+    "correct_answers": [
+      "c",
+      "d",
+      "e"
+    ],
+    "correct_answer": "c",
+    "number": 22,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "In boala Crohn la examenul baritat intestinal se evidentiaza:",
+    "options": {
+      "a": "Nivele hidro-aerice",
+      "b": "In stadiul initial ansa ileala are aspect areolat, cu lumen ingustat, aspect de \"pavaj,",
+      "c": "Pneumoperitoneu",
+      "d": "In perioada de stare ileonul terminal este spastic, filiform, ansa din amonte dilatata",
+      "e": "Stenoze multiple pe ileonul terminal, separate de segmente de intestin dilatat"
+    },
+    "correct_answers": [
+      "b",
+      "d",
+      "e"
+    ],
+    "correct_answer": "b",
+    "number": 23,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Antibioprofilaxia in chirurgia gastrica este folosita daca bolnavul:",
+    "options": {
+      "a": "se incadreaza in indicatiile generale",
+      "b": "exista un factor de risc pentru infectia postoperatorie (hipoclorhidrie, staza gastrica)",
+      "c": "nu prezinta factor de risc pentru o infectie nozocomiala",
+      "d": "a mai suferit in antecedente o interventie pe stomac",
+      "e": "necesita o interventie pe stomac ce se prelungeste."
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 24,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Profilaxia infectiei postoperatorii nozocomiale cu antibiotice (antibioprofilaxia) se face in caz de:",
+    "options": {
+      "a": "Alterare a barierelor anatomice",
+      "b": "Alterare a imunitatii nespecifice",
+      "c": "Alterare a imunitatii specifice",
+      "d": "Alterare a florei normale",
+      "e": "niciuna din situatiile de mai sus"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 25,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Despre sindromul Zollinger – Ellison sunt adevarate urmatoarele afirmatii:",
+    "options": {
+      "a": "Este reprezentat de ulcere gastro-duodenale multiple recidivante",
+      "b": "Apare diaree abundenta, intermitenta, cu steatoree constanta",
+      "c": "Varsaturile apar inconstant, la distanta mare de ingestia alimentara",
+      "d": "Durerea respecta marea si mica periodicitate",
+      "e": "Este provocat de un glucagonom pancreatic"
+    },
+    "correct_answers": [
+      "a",
+      "b"
+    ],
+    "correct_answer": "a",
+    "number": 26,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care din afirmatiile de mai jos referitoare la adenomul toxic tiroidian sunt adevarate:",
+    "options": {
+      "a": "se caracterizeaza prin prezenta unui nodul (adenom) tiroidian hiposecretant, rareori 2-3 noduli",
+      "b": "apare mai frecvent in decadele 3 si 4 de viata",
+      "c": "predominente sunt simptomele neuro-psihice",
+      "d": "gusa este uninodulara, bine delimitata, ferma",
+      "e": "scintigrafia tiroidiana precizeaza caracterul hipersecretant al adenomului"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 27,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Sindromul radiologic benign in cancerul de san include:",
+    "options": {
+      "a": "opacitate nodulara rotunda",
+      "b": "structura omogena",
+      "c": "retractie cutanata sau a mamelonului",
+      "d": "microcalcificari fine intra sau extratumorale",
+      "e": "lizereu transparent peritumoral bine delimitat"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 28,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care sunt exemple clasice de torsiune de organ:",
+    "options": {
+      "a": "torsiunea de stomac si duoden",
+      "b": "torsiunea de ovar tumoral",
+      "c": "torsiunea colonului ascendent",
+      "d": "torsiunea de testicul",
+      "e": "torsiunea colonului descendent"
+    },
+    "correct_answers": [
+      "a",
+      "b"
+    ],
+    "correct_answer": "a",
+    "number": 29,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Printre complicatiile cancerului de colon stang se regasesc:",
+    "options": {
+      "a": "Ocluzia",
+      "b": "Hemoragia digestiva superioara",
+      "c": "Infectia tumorala si peritumorala",
+      "d": "Anemia, care este cel mai frecvent semn de debut",
+      "e": "Perforatia tumorala"
+    },
+    "correct_answers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 30,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Tabloul clinic in peritonita acuta localizata submezocolic in stadiul supurativ- cuprinde:",
+    "options": {
+      "a": "curba termica oscilanta",
+      "b": "frisoane",
+      "c": "leucopenie",
+      "d": "contractura / aparare musculara localizata",
+      "e": "tumora inflamatorie bine delimitata, nedureroasa, mobila"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 31,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Examenul obiectiv in volvulusul de sigmoid evidentiaza",
+    "options": {
+      "a": "Deformarea asimetrica a abdomenului: meteorism asimetric",
+      "b": "Tuseul rectal poate evidentia sange sau mucozitati",
+      "c": "Ascultatia regiunii meteorizate concomitent cu percutia evidentiaza ,rezonanta metalica”",
+      "d": "Palparea ofera o senzatie de rezistenta elastica",
+      "e": "Percutia releva matitate pe toata aria abdominala"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 32,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care din urmatoarele afectiuni sunt considerate stari precanceroase in tumorile gastrice?",
+    "options": {
+      "a": "ulcerul gastric",
+      "b": "polipul adenomatos",
+      "c": "anemia pernicioasa Biermer",
+      "d": "gastrita atrofica",
+      "e": "Niciuna din afirmatiile de mai sus"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 33,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Examenul obiectiv in peritonita acuta localizata supramezocolica constata:",
+    "options": {
+      "a": "durere provocata la palparea ultimelor spatii intercostale",
+      "b": "abolirea matitatii prehepatice",
+      "c": "submatitate la baza hemitoracelui",
+      "d": "accentuarea murmurului vezicular",
+      "e": "edem parietal cu imobilitatea hemitoracelui"
+    },
+    "correct_answers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 34,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Antibioprofilaxia in chirurgia colorectala:",
+    "options": {
+      "a": "se realizeaza numai pe cale orala cu 24-48 ore anterior de interventie",
+      "b": "se realizeaza numai parenteral cu o ora inaintea interventiei",
+      "c": "se realizeaza pe cale orala si parenterala",
+      "d": "nu are eficienta demonstrata",
+      "e": "previne abcesele parietale, infectiile urinare si pulmonare dar nu si peritonitele postoperatorii prin dezunire de anastomoza"
+    },
+    "correct_answers": [
+      "c",
+      "e"
+    ],
+    "correct_answer": "c",
+    "number": 35,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Asepsia se realizeaza in practica chirurgicala prin:",
+    "options": {
+      "a": "antibioprofilaxie",
+      "b": "sterilizarea materialului si instrumentelor",
+      "c": "dezinfectarea mainilor chirurgului si ajutoarelor",
+      "d": "dezinfectia campului operator",
+      "e": "dezinfectia salii de operatie si a aerului"
+    },
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "correct_answer": "b",
+    "number": 36,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Litiaza caii biliare principale poate avea urmatoarele surse:",
+    "options": {
+      "a": "calculi autohtoni",
+      "b": "calculi pancreatici migrati in CBP",
+      "c": "calculi veziculari migrati in CBP",
+      "d": "calculi intrahepatici migrati in CBP",
+      "e": "calculi duodenali migrati in CBP"
+    },
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 38,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "In ceea ce priveste explorarile paraclinice din patologia tumorala sunt adevarate urmatoarele:",
+    "options": {
+      "a": "Markerii tumorali stabilesc diagnosticul de neoplazie, dar nu sunt utili in monitorizarea postoperatorie",
+      "b": "Endoscopia digestiva este metoda cea mai transanta si cea mai specifica in stabilirea existentei unei patologii tumorale la nivelul ficatului si splinei",
+      "c": "Scintigrafia da informatii valorcase privind diagnosticul si stadializarea sarcoamelor de parti moi si arata prezenta metastazelor osoase",
+      "d": "Examenul histologic este examenul principal decisiv pentru diagnosticul pozitiv si diferential al tumorilor",
+      "e": "Sunt indicate frecvent in patolcgia tumorala, renuntandu-se astfel la examenul clinic."
+    },
+    "correct_answers": [
+      "c",
+      "d"
+    ],
+    "correct_answer": "c",
+    "number": 39,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care din afirmatiile de mai jos referitoare la nodulul tiroidian solitar sunt adevarate:",
+    "options": {
+      "a": "au o incidenta mai mica de transformare maligna decat gusile multinodulare",
+      "b": "evolutia lenta pe mai multi ani, pledeaza pentru o leziune benigna",
+      "c": "fenomenele de compresiune (disfagie, disfonie, dispnee) aparute rapid, ne orienteaza spre o leziune maligna",
+      "d": "consistenta dura insotita de adenopatie laterocervicala dura, edureroasa, pledeaza puternic pentru malignitate",
+      "e": "biopsia aspirativa cu ac fin si examen citologic reprezinta metoda cea mai precisa de diagnostic"
+    },
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "correct_answer": "b",
+    "number": 40,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Aprecierea gravitatii unei hemoragii, trebuie sa tina seama de urmatorii factori:",
+    "options": {
+      "a": "Cantitatea de sange pierdut",
+      "b": "Viteza cu care s-a produs aceasta pierdere",
+      "c": "Originea hemoragiei: arteriala sau venoasa",
+      "d": "Mediul de provenienta al pacientului",
+      "e": "Varsta si tarele asociate."
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 41,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Regurgitatiile sunt:",
+    "options": {
+      "a": "Tardive in stenozele inalte",
+      "b": "Imediate in stenozele joase",
+      "c": "Contin alimente recent ingerate in obstructiile inalte",
+      "d": "Sunt abundente in megaesofagul hipoton",
+      "e": "Sunt reduse cantitativ in obstacolele inalte"
+    },
+    "correct_answers": [
+      "c",
+      "d",
+      "e"
+    ],
+    "correct_answer": "c",
+    "number": 42,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Peritonitele acute secundare:",
+    "options": {
+      "a": "Sunt de regula monomicobiene",
+      "b": "Se produc cel mai adesea prin perforatii de viscere cavitare, rupturi de colectii septice",
+      "c": "Precedate de stare febrila, sugereaza peritonita prin propagarea de la o supuratie de vecinatate",
+      "d": "Au cauza preponderenta streptococul hemolitic sau nehemolitic ce provine dintr-un focar infectios rino-faringian, erizipelatos sau genital",
+      "e": "Au sediul durerii de debut si locul de maxima intensitate corespundent, de regula, viscerului interesat"
+    },
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "correct_answer": "b",
+    "number": 43,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "In ceea ce priveste seromul, urmatoarele afirmatii sunt adevarate:",
+    "options": {
+      "a": "Semiologic se caracterizeaza prin tumefactie de marimi diferite a carei forma se modifica cu pozitia bolnavului",
+      "b": "Palparea tumefactiei da senzatia de unda oscilatorie",
+      "c": "Evolueaza intotdeauna spre infectie",
+      "d": "Reprezinta acumularea de sange in urma unui traumatism care actioneaza violent si tangential fata de planul tegumentului avand ca rezultat ruperea vaselor de sange si acumularea de sange prospat in sp",
+      "e": "Poate evolua spre resorbtie spontana."
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 44,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Triada Von Wahl din volvulusul de sigmoid presupune:",
+    "options": {
+      "a": "meteorism imobil",
+      "b": "rezistenta elastica la palpare",
+      "c": "icter",
+      "d": "disparitia matitatii hepatice",
+      "e": "hipertimpanism"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 45,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Sindromul König este recunoscut dupa urmatoarele semne:",
+    "options": {
+      "a": "Varsaturi",
+      "b": "Durere colicativa",
+      "c": "Zgomote intestinale (borborisme)",
+      "d": "Debaclu diareic sau gaze, dupa care cedeaza durerea",
+      "e": "Hiperperistaltism"
+    },
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "correct_answer": "b",
+    "number": 46,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Asepsia este",
+    "options": {
+      "a": "o metoda pentru combaterea infectiei",
+      "b": "o modalitate de prevenire a infectiei",
+      "c": "o metoda curativa",
+      "d": "o metoda profilactica",
+      "e": "profilactica si curativa"
+    },
+    "correct_answers": [
+      "b",
+      "d"
+    ],
+    "correct_answer": "b",
+    "number": 47,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Refluxul gastroesofagian ca raspuns al alterarii mecanismelor antireflux il intalnim in:",
+    "options": {
+      "a": "hernia hiatala",
+      "b": "brahiesofag",
+      "c": "cancerul esofagian",
+      "d": "stenozele esofagiene postcaustice",
+      "e": "cresterea presiunii intrabdominale in sarcina; ciroza, tumori abdominale"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 48,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "In cazul ampulomului vaterian explorarile paraclinice aduc urmatoarele informatii diagnostice:",
+    "options": {
+      "a": "bilirubina totala crescuta (cu predominenta celei directe), colesterolul crescut, fosfataza alcalina crescuta",
+      "b": "ecografia evidentiaza colecist destins, fara calculi",
+      "c": "ecografia descrie colecist cu peretii ingrosati, cu dublu contur si cu numerosi calculi in interior",
+      "d": "duodenoscopia evidentiaza tumora si permite efectuarea biopsiei tumorale",
+      "e": "colangiografia intravenoasa evidentiaza tumora"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 49,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Clasificarea fistulelor perianale se face in functie de:",
+    "options": {
+      "a": "Raportul cu aparatul sfincterian",
+      "b": "Timpul scurs de la aparitia fistulelor",
+      "c": "Dupa numarul orificiilor fistuloase existente",
+      "d": "Raspunsul la terapia aplicata",
+      "e": "Numarul orificiilor si topografia traiectelor fistuloase"
+    },
+    "correct_answers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 50,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "La examenul clinic al pacientului cu hemoperitoneu se observa:",
+    "options": {
+      "a": "Puls accelarat cu amplitudine din ce in ce mai mica",
+      "b": "TA cu tendinta la scadere in dinamica",
+      "c": "Absenta semnelor de iritatie peritoneala",
+      "d": "Distensie abdominala moderata",
+      "e": "Stare de coma prin soc hipovolemic (in hemoragia interna cataclismica)"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 51,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care dintre urmatoarele constatari legate de hemoroizii interni de gradul I sunt adevarate?",
+    "options": {
+      "a": "Hemoroizi ce prolabeaza temporar in timpul defecatiei",
+      "b": "Sunt mai putin hemoragici, pentru ca unele vene se sclerozeaza",
+      "c": "Hemoroizi localizati deasupra liniei pectineate – nu prolabeaza",
+      "d": "Sunt vizibili anuscopic",
+      "e": "Apar hemoragii declansate de defecatie"
+    },
+    "correct_answers": [
+      "c",
+      "d",
+      "e"
+    ],
+    "correct_answer": "c",
+    "number": 52,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Cancerul de colon stang necomplicat se manifesta clinic prin:",
+    "options": {
+      "a": "tulburari de tranzit intestinal, alternanta constipatie si diaree",
+      "b": "dureri cu caracter colicativ",
+      "c": "perforatie tumorala",
+      "d": "absenta tranzitului intestinal pentru materii fecale si gaze",
+      "e": "perforatie diastatica"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 53,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Un politraumatizat in stare de soc, la care banuim o ruptura de diafragm, (leziuni de torace si abdomen) poate prezenta:",
+    "options": {
+      "a": "Semne cardio-respiratorii : dispnee, cianoza si tulburari cardio-pulmonare",
+      "b": "Sindrom ocluziv: varsaturi, dureri la baza toracelui, relevante pentru incarcerari intestinale in bresa diafragmatica",
+      "c": "echimoza periombilicala si pe flancuri",
+      "d": "hemoptizie, hemotorax dat de fracturile costale",
+      "e": "triada Charcot-Villard."
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 54,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Distensia regionala ombilicala (abdomenul asimetric) se intalneste in:",
+    "options": {
+      "a": "hernia ombilicala",
+      "b": "tumori ale colonului ascendent",
+      "c": "eventratii postoperatorii",
+      "d": "tumori de mezenter sau retroperitoneu",
+      "e": "dilatatia acuta gastric."
+    },
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 55,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Triada lui Dieulafoy din apendicita acuta consta din:",
+    "options": {
+      "a": "Durere vie la apasarea in fosa iliaca dreapta",
+      "b": "Contractura musculara in etajul abdominal inferior",
+      "c": "Hiperestezie cutanata",
+      "d": "Clapotaj in fosa iliaca dreapta",
+      "e": "Aparare musculara in fosa iliaca dreapta"
+    },
+    "correct_answers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 56,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care afirmatii despre ocluziile intestinale joase sunt valabile?",
+    "options": {
+      "a": "Durere colicativa, la intervale de 1-5 minute, intensa",
+      "b": "Varsaturi tardive, aparute la cateva zile de la debut, sau pot lipsi",
+      "c": "Starea generala nemodificata zile intregi cu deshidratare lenta",
+      "d": "Starea generala este rapid si profund alterata",
+      "e": "Meteorism masiv dispus pe suprafata intregului abdomen sau asimetrii importante"
+    },
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "correct_answer": "b",
+    "number": 57,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care din afirmatiile referitoare la herniile diafragmatice sunt adevarate?",
+    "options": {
+      "a": "Hernia diafragmatica reprezinta ascensionarea viscerelor toracice in abdomen prin traversarea unui orificiu din diafragm",
+      "b": "Sediul herniei este in general de partea stanga, deoarece in dreapta, masa ficatului face un obstacol pentru trecerea viscerelor",
+      "c": "Factorii favorizanti sunt reprezentati de aspiratia toracica (in cele doua momente ale respiratiei) si presiunea abdominala de impingere (prin contractie musculara si eforturi)",
+      "d": "Manifestarile clinice sunt datorate asocierii de semne abdominale (intinderea si compresiunea viscerelor) si toracice (colapsul pulmonar si comprimarea mediastinului)",
+      "e": "Examenul radiologic nu aduce informatii despre viscerele herniate."
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 58,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Despre diverticulita acuta sunt adevarate urmatoarele afirmatii:",
+    "options": {
+      "a": "Este o complicatie destul de frecventa a diverticulozei colonice",
+      "b": "Eliminarea de gaze sau fecale amelioreaza durerea",
+      "c": "Poate imbraca un tablou de apendicita acuta dar cu sediul in fosa iliaca stanga",
+      "d": "Hemoragia apare de la debutul simpromatologiei",
+      "e": "Scaunele pot capata un aspect “creionat”"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "correct_answer": "a",
+    "number": 59,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care dintre caracterele generale ale tumorilor maligne sunt adevarate:",
+    "options": {
+      "a": "dupa extirpare recidiveaza",
+      "b": "evolueaza sezonier",
+      "c": "consistenta este cel mai frecvent dura",
+      "d": "sunt bine delimitate",
+      "e": "sunt bogat vascularizate"
+    },
+    "correct_answers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 60,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Care informatie referitoare la boala de reflux gastro-esofagian este falsa?",
+    "options": {
+      "a": "Este insotit totdeauna de greata si varsaturi",
+      "b": "Este pierduta continenta cardiei",
+      "c": "Pirozisul are sediul retrosternal",
+      "d": "Regurgitatiile apar in clinostatism si dispar in ortostatism",
+      "e": "Endoscopia confirma prezenta refluxului"
+    },
+    "correct_answers": [
+      "a"
+    ],
+    "correct_answer": "a",
+    "number": 2,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Prin H.D.S. se intelege:",
+    "options": {
+      "a": "pierderea de sange la nivelul tubului digestiv indiferent de localizarea sursei",
+      "b": "toate hemoragiile care provin din treimea distala a esofagului pana la unghiul duodeno-jejunal",
+      "c": "pierderea de sange din cavitatea bucala si faringe",
+      "d": "pierderea de sange de la nivelul intestinului subtire",
+      "e": "pierderea de sange din colon si rect"
+    },
+    "correct_answers": [
+      "b"
+    ],
+    "correct_answer": "b",
+    "number": 9,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Caracterul radiologic benign al ulcerului gastric este:",
+    "options": {
+      "a": "lacuna",
+      "b": "stenoza",
+      "c": "nisa incastrata in conturul gastric",
+      "d": "nisa iesita din conturul gastric cu pliuri de vecinatate suple, convergente spre leziune",
+      "e": "intreruperea pliurilor de mucoasa gastrica"
+    },
+    "correct_answers": [
+      "d"
+    ],
+    "correct_answer": "d",
+    "number": 12,
+    "type": "simplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Din punct de vedere semiologic, hematomul este caracterizat astfel:",
+    "options": {
+      "a": "Tumefactie de volum constant sau variabil insotita de durere locala",
+      "b": "La palpare se percepe ,crepitatia sanguina“ apoi fluctuenta",
+      "c": "In hematomul profund echimoza apare in primele 24 ore",
+      "d": "Cand hematomul este compresiv apar fenomenele de compresiune vasculara (absenta pulsului periferic) sau nervoasa (parestezii)",
+      "e": "Cand exista tulburari hematologice (hemofilie) se poate produce si spontan."
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "correct_answer": "a",
+    "number": 18,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "In volvulusul intestinului subtire, in faza de ansa necrozata se constata:",
+    "options": {
+      "a": "Aparare musculara, uneori contractura musculara",
+      "b": "Durere discreta sau absenta",
+      "c": "Submatitate pe flancuri, semn de revarsat peritoneal",
+      "d": "Soc toxico-septic",
+      "e": "Nu sunt prezente semne de iritatie peritoneala"
+    },
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "correct_answer": "a",
+    "number": 37,
+    "type": "multiplu"
+  },
+  {
+    "test": "Semiologie Chir",
+    "source": "semio",
+    "question": "Despre diverticulita acuta sunt adevarate urmatoarele afirmatii:",
+    "options": {
+      "a": "Este o complicatie destul de frecventa a diverticulozei colonice",
+      "b": "Eliminarea de gaze sau fecale amelioreaza durerea",
+      "c": "Poate imbraca un tablou de apendicita acuta dar cu sediul in fosa iliaca stanga",
+      "d": "Hemoragia apare de la debutul simpromatologiei",
+      "e": "Scaunele pot capata un aspect “creionat”"
+    },
+    "correct_answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "correct_answer": "a",
+    "number": 59,
+    "type": "multiplu"
   }
 ]
