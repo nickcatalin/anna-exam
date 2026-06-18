@@ -1,0 +1,2378 @@
+[
+    {
+        "test": "Testul 1",
+        "question": "Notați afirmația falsă referitoare la beta-blocante:",
+        "options": {
+            "a": "Propranololul este beta-blocant neselectiv",
+            "b": "Metoprololul produce bronhospasm",
+            "c": "Se utilizează în diverse forme de HTA",
+            "d": "Sunt preferate în HTA la tineri cu tonus simpatic crescut",
+            "e": "Accentuează gradul de bloc AV"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Are efect antiagregant plachetar la doze mici:",
+        "options": {
+            "a": "Heparina",
+            "b": "Enoxaparina",
+            "c": "Acidul acetilsalicilic",
+            "d": "Fraxiparina",
+            "e": "Streptokinaza"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Este din clasa blocantelor canalelor lente de calciu:",
+        "options": {
+            "a": "Fentolamina",
+            "b": "Clonidina",
+            "c": "Rezerpina",
+            "d": "Verapamil",
+            "e": "Hidralazina"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Notați efectul advers care nu este specific aminoglicozidelor:",
+        "options": {
+            "a": "Reacții alergice",
+            "b": "Efecte curarizante",
+            "c": "Nefrotoxicitate",
+            "d": "Ototoxicitate",
+            "e": "Modificări în structura dentară"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Acidul dehidrocolic are următorul efect farmacodinamic:",
+        "options": {
+            "a": "Antiemetic",
+            "b": "Coleretic",
+            "c": "Antispastic",
+            "d": "Antisecretor gastric",
+            "e": "Prokinetic"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Nitroglicerina și substanțele înrudite sunt contraindicate la pacienții cu:",
+        "options": {
+            "a": "Infarct miocardic",
+            "b": "Angina pectorală stabilă",
+            "c": "Angina vasospastică",
+            "d": "Angina instabilă",
+            "e": "Presiune intracraniană crescută"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Carbenicilina se caracterizează prin:",
+        "options": {
+            "a": "Are efect bacteriostatic",
+            "b": "Se absoarbe bine digestiv",
+            "c": "Este penicilină antipseudomonas",
+            "d": "Se utilizează pentru tratamentul infecțiilor streptococice",
+            "e": "Are efect tuberculostatic"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 1",
+        "question": "Administrate injectabil, preparatele de fier pot determina următoarele efecte adverse, cu excepția:",
+        "options": {
+            "a": "Bronhospasm cu dispnee",
+            "b": "Limfadenopatie generalizată",
+            "c": "Șoc anafilactic",
+            "d": "Urticarie",
+            "e": "Colorația brună a scaunului"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Notați indicația pentru Mexiletină:",
+        "options": {
+            "a": "Edeme",
+            "b": "Angina pectorală",
+            "c": "HTA",
+            "d": "Insuficiență cardiacă",
+            "e": "Aritmii ventriculare"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Bifați blocantul receptorilor AT1 pentru angiotensina II:",
+        "options": {
+            "a": "Enalapril",
+            "b": "Valsartan",
+            "c": "Nifedipina",
+            "d": "Propranolol",
+            "e": "Furosemid"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Următoarea afirmație referitoare la medicația antidiabetică este adevărată:",
+        "options": {
+            "a": "Biguanidele antidiabetice sunt indicate în tratamentul diabetului zaharat insulino-dependent",
+            "b": "Biguanidele se indică în cetoacidoza diabetică",
+            "c": "Clorpropamida are un timp de înjumătățire plasmatic lung",
+            "d": "Buforminul se administrează cu o oră înainte de masă",
+            "e": "Glucagonul este un polipeptid cu 29 de aminoacizi produs de celulele beta ale insulelor Langerhans"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Notați afirmația adevărată despre metoclopramid:",
+        "options": {
+            "a": "Blochează receptorii serotoninergici",
+            "b": "În doze mari blochează și receptorii muscarinici",
+            "c": "Prezintă efect prokinetic",
+            "d": "Benzodiazepinele antagonizează efectul antiemetic",
+            "e": "Nu produce tulburări extrapiramidale"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Notați utilizarea sulfatului de protamină:",
+        "options": {
+            "a": "Hemoragii determinate de supradozarea heparinei",
+            "b": "Bolnavi cu stenoză mitrală",
+            "c": "Embolii pulmonare",
+            "d": "Fibrilație atrială",
+            "e": "Bolnavi cu proteze valvulare"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 2",
+        "question": "Notați preparatul de fier injectabil:",
+        "options": {
+            "a": "Sulfat feros",
+            "b": "Gluconat feros",
+            "c": "Glutamat feros",
+            "d": "Fumarat feros",
+            "e": "Fier polimaltozat"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Tietilperazina este:",
+        "options": {
+            "a": "un antiacid",
+            "b": "un antispastic",
+            "c": "un antiemetic",
+            "d": "un antidiareic",
+            "e": "un antihistaminic H1"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Bifați afirmația adevărată despre butilscopolamină:",
+        "options": {
+            "a": "Este un prokinetic",
+            "b": "Este un laxativ de volum",
+            "c": "Este un antispastic neurotrop",
+            "d": "Este un antiemetic",
+            "e": "Este un antispastic musculotrop"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Notați afirmațiile adevărate despre hidroxidul de magneziu: A. este un inhibitor al pompei de protoni; B. este un antiemetic; C. este un antispastic; D. se poate utiliza tratamentul esofagitei de reflux; E. poate determina diaree.",
+        "options": {
+            "a": "A, C",
+            "b": "A, D",
+            "c": "B, D",
+            "d": "D, E",
+            "e": "A, E"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Labetalolul: A. este un betaadrenomimetic; B. este un betablocant selectiv; C. blochează și receptorii alfa 1; D. poate determina creșterea tensiunii arteriale; E. se poate administra la pacienții cu angina pectorală.",
+        "options": {
+            "a": "A, D",
+            "b": "A, E",
+            "c": "B, D",
+            "d": "C, D",
+            "e": "C, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Notați preparatul utilizat pentru tratamentul diareei:",
+        "options": {
+            "a": "Docusatul de sodiu",
+            "b": "Sulfatul de magneziu",
+            "c": "Sărurile de calciu",
+            "d": "Sulfatul de sodiu",
+            "e": "Bisacodilul"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Notați afirmația adevărată despre trimetafan:",
+        "options": {
+            "a": "este un ganglioblocant",
+            "b": "este un blocant al receptorilor pentru angiotensina de tip II",
+            "c": "este un agonist alfa 2 adrenergic",
+            "d": "este un diuretic antialdosteronic",
+            "e": "este un inhibitor al enzimei de conversie a angiotensinei"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Notați afirmația adevărată despre aminofilină:",
+        "options": {
+            "a": "este un bronhodilatator ce poate fi administrat în criza de astm bronșic",
+            "b": "este un bronhodilatator anticolinergic",
+            "c": "este un bronhodilatator adrenergic",
+            "d": "se administrează exclusiv în tratamentul cronic al BPCO",
+            "e": "Produce bradicardie"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 3",
+        "question": "Bifați afirmația adevărată referitoare la clofenadol:",
+        "options": {
+            "a": "Se indică în tusea productivă",
+            "b": "Are efect hipnotic",
+            "c": "Este un agent mucolitic",
+            "d": "Este un antitusiv",
+            "e": "Este un bronhodilatator"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Notați antibioticul care acționează prin blocarea topoizomerazelor bacteriene II și IV:",
+        "options": {
+            "a": "Polimixina",
+            "b": "Ciprofloxacina",
+            "c": "Rifampicina",
+            "d": "Eritromicina",
+            "e": "Penicilina G"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Antihistaminicele H2 se caracterizează prin:",
+        "options": {
+            "a": "Inhibă și secreția stimulată de gastrină",
+            "b": "Sunt activate de pH-ul alcalin",
+            "c": "Reprezintă medicația de bază în spasme intestinale",
+            "d": "Nu este inhibitor enzimatic Cimetidina",
+            "e": "În ulcerul de stress sunt contraindicate"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Nu se administrează la copii sub 8 ani:",
+        "options": {
+            "a": "Cefaclor",
+            "b": "Tetraciclina",
+            "c": "Benzatinbenzilpenicilina",
+            "d": "Benzilpenicilina",
+            "e": "Cefalexin"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Precizați medicamentul indicat în edeme de cauză cardiacă:",
+        "options": {
+            "a": "Enalapril",
+            "b": "Losartan",
+            "c": "Prazosin",
+            "d": "Propafenona",
+            "e": "Furosemid"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Este inhibitor al degranulării mastocitare administrat în astmul bronșic:",
+        "options": {
+            "a": "Beclometazona",
+            "b": "Cromoglicatul disodic",
+            "c": "Zileuton",
+            "d": "Bromura de oxitropium",
+            "e": "Efedrina"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Notați afirmația falsă despre ambroxol:",
+        "options": {
+            "a": "Este metabolit al bromhexinului",
+            "b": "Crește vâscozitatea secrețiilor bronșice",
+            "c": "Favorizează expectorația",
+            "d": "Se administrează oral 30 mg de 2 ori pe zi",
+            "e": "Rareori produce tulburări digestive"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Indapamida se caracterizează prin:",
+        "options": {
+            "a": "Durata mare de acțiune, peste 24 ore",
+            "b": "Este cel mai puternic diuretic",
+            "c": "Ramura ascendentă a ansei Henle este locul de acțiune",
+            "d": "Blochează co-transportorul Na,K/2Cl",
+            "e": "Intensitatea efectului este direct proporțională cu doza"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Notați afirmația falsă referitoare la insulină:",
+        "options": {
+            "a": "Este secretată de celulele beta pancreatice",
+            "b": "Inhibă procesul de glicogenogeneză hepatică",
+            "c": "Elementele figurate sanguine nu posedă receptori specifici pentru insulină",
+            "d": "Pancreasul endocrin uman produce circa 18 - 40 UI/zi",
+            "e": "Insulina determină hipoglicemie"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Bifați afirmația falsă:",
+        "options": {
+            "a": "Procainamida este antiaritmic din clasa I A",
+            "b": "Propranolol este antiaritmic din clasa II",
+            "c": "Lidocaina este antiaritmic din clasa III",
+            "d": "Verapamil este antiaritmic din clasa IV",
+            "e": "Propafenona este antiaritmic din clasa I C"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Se administrează în criza de angina pectorală vasospastică sublingual:",
+        "options": {
+            "a": "Nadolol",
+            "b": "Nitroglicerină",
+            "c": "Pindolol",
+            "d": "Captopril",
+            "e": "Procainamidă"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Se evită folosirea heparinei la următorii bolnavi, cu excepția:",
+        "options": {
+            "a": "Tuberculoza activă",
+            "b": "Ulcer gastroduodenal activ",
+            "c": "Accident vascular cerebral hemoragic",
+            "d": "Iminența de avort",
+            "e": "Tromboze venoase profunde"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 4",
+        "question": "Face parte din grupul de antihipertensive neurosimpatolitice:",
+        "options": {
+            "a": "Prazosin",
+            "b": "Clonidina",
+            "c": "Hidralazina",
+            "d": "Rezerpina",
+            "e": "Nitroprusiat de sodiu"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Prometazina este:",
+        "options": {
+            "a": "Antiemetic",
+            "b": "Antisecretor gastric",
+            "c": "Stimulant al secreției gastrice",
+            "d": "Antispastic",
+            "e": "Antidiareic"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Bifați preparatul utilizat în criza de astm bronșic:",
+        "options": {
+            "a": "teofilina",
+            "b": "terbutalina",
+            "c": "propranolol",
+            "d": "zileuton",
+            "e": "salmeterol"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Pirenzepina acționează prin:",
+        "options": {
+            "a": "blocarea receptorilor beta 2",
+            "b": "blocarea receptorilor H2",
+            "c": "blocarea receptorilor muscarinici",
+            "d": "inhibiția fosfodiesterazelor",
+            "e": "stimularea pătrunderii calciului în celulă"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Notați afecțiunea în care nu administrăm Domperidona:",
+        "options": {
+            "a": "dispepsia",
+            "b": "tratamentul diareei",
+            "c": "boala de reflux gastro-esofagian",
+            "d": "tratamentul constipației",
+            "e": "ileusul post-operator"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Notați diureticul antagonist competitiv al aldosteronului:",
+        "options": {
+            "a": "Furosemid",
+            "b": "Triamteren",
+            "c": "Clopamida",
+            "d": "Spironolactona",
+            "e": "Bumetamida"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Sunt efecte adverse ale glicozizilor cardiotonici, cu excepția:",
+        "options": {
+            "a": "perturbarea percepției culorilor",
+            "b": "bradicardie",
+            "c": "greață",
+            "d": "constipație",
+            "e": "extrasistole atriale sau ventriculare"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Furosemidul:",
+        "options": {
+            "a": "produce hiperpotasemie",
+            "b": "produce hipercalcemie",
+            "c": "blochează co-transportorul Na+, K+/2Cl",
+            "d": "blochează fixarea aldosteronului pe receptorii specifici",
+            "e": "blochează anhidraza carbonica"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Labetalolul: A. este un betaadrenomimetic; B. este un betablocant selectiv; C. blochează și receptorii alfa 1; D. poate determina creșterea tensiunii arteriale; E. se poate administra la pacienții cu angina pectorală",
+        "options": {
+            "a": "A, D",
+            "b": "A, E",
+            "c": "B, D",
+            "d": "C, D",
+            "e": "C, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Sulfatul de magneziu:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un purgativ osmotic",
+            "d": "este un citoprotector",
+            "e": "este un purgativ iritant"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 5",
+        "question": "Notați afirmația adevărată referitoare la verapamil:",
+        "options": {
+            "a": "este un derivat dihidropiridinic",
+            "b": "blochează enzima de conversie a angiotensinei",
+            "c": "poate determina edeme periferice",
+            "d": "determină creșterea tensiunii arteriale",
+            "e": "determină tahicardie"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 5",
+        "question": "În supradozajul de acenocumarol se administrează:",
+        "options": {
+            "a": "heparina",
+            "b": "fitomenadiona",
+            "c": "sulfat de protamină",
+            "d": "fizostigmina",
+            "e": "acid acetilsalicilic"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Iodul, în cantitate mai mare de 6mg/zi, este folosit pentru:",
+        "options": {
+            "a": "tratamentul gușei endemice",
+            "b": "tratamentul tiroiditei autoimune",
+            "c": "profilaxia cretinismului endemic",
+            "d": "pregătirea preoperatorie a glandei tiroide, în caz de tumori tiroidiene",
+            "e": "tratamentul hipotiroidiei"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Afirmații adevărate privind dihidralazina:",
+        "options": {
+            "a": "are efect diuretic",
+            "b": "are efect antitusiv",
+            "c": "se asociază cu oxprenolol",
+            "d": "blochează transportorul tubular implicat în secreția tubulară de penicilină",
+            "e": "potențează efectul uricozuric al probenecidului"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Guanetidina determină:",
+        "options": {
+            "a": "inhibiția sintezei de catecolamine",
+            "b": "inhibiția eliberării de catecolamine din terminațiile simpatice",
+            "c": "inhibiția recaptării de catecolamine în terminațiile simpatice",
+            "d": "inhibiția metabolizării catecolaminelor prin blocarea MAO",
+            "e": "inhibiția metabolizării catecolaminelor prin blocarea COMT"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Afirmații adevărate privind glicozizii cardiotonici:",
+        "options": {
+            "a": "au efect inotrop negativ",
+            "b": "au efect cronotrop pozitiv",
+            "c": "au efect batmotrop negativ",
+            "d": "au efect dromotrop negativ",
+            "e": "blochează canalele de calciu"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Care din următoarele antiaritmice fac parte din clasa a 3a (blocante ale canalelor de potasiu):",
+        "options": {
+            "a": "procainamida",
+            "b": "disopiramida",
+            "c": "amiodarona",
+            "d": "propafenona",
+            "e": "xilina"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Se pot utiliza în tratamentul fibrilației atriale următoarele antiaritmice, cu excepția:",
+        "options": {
+            "a": "digoxin",
+            "b": "verapamil",
+            "c": "amiodarona",
+            "d": "atropina",
+            "e": "propranolol"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Afirmație falsă privind nitroglicerina:",
+        "options": {
+            "a": "prezintă fenomen de prima trecere hepatică",
+            "b": "scade pre- și post sarcina",
+            "c": "are efect numai la nivelul musculaturii netede vasculare",
+            "d": "determină ca efect advers cefalee pulsatilă",
+            "e": "determină tahicardie reflexă"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Sunt expectorante secretolitice:",
+        "options": {
+            "a": "ipeca",
+            "b": "codeina",
+            "c": "acetilcisteina",
+            "d": "miofilinul",
+            "e": "ipratropium"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 6",
+        "question": "Este bronhodilatator musculotrop:",
+        "options": {
+            "a": "salbutamolul",
+            "b": "codeina",
+            "c": "propranololul",
+            "d": "aminofilina",
+            "e": "atropina"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Este un derivat xantinic bronhodilatator:",
+        "options": {
+            "a": "Terbutalina",
+            "b": "Cromoglicat de sodiu",
+            "c": "Aminofilina",
+            "d": "Fluticazona",
+            "e": "Beclomeazona"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Bifați antitusivul central opioid:",
+        "options": {
+            "a": "Oxeladina",
+            "b": "Codeina",
+            "c": "Fenoterol",
+            "d": "Oxitropium",
+            "e": "Terbutalina"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 7",
+        "question": "O cantitate de 25% de sodiu din filtratul glomerular rămâne neabsorbită, împreună cu un echivalent osmotic de apă la administrare de:",
+        "options": {
+            "a": "Furosemid",
+            "b": "Hidroclorotiazida",
+            "c": "Indapamida",
+            "d": "Spironolactona",
+            "e": "Triamteren"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Notați antiaritmicul care blochează canalele de potasiu:",
+        "options": {
+            "a": "Amiodarona",
+            "b": "Chinidina",
+            "c": "Verapamil",
+            "d": "Propafenona",
+            "e": "Esmolol"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Blochează sinteza proteinelor bacteriene la nivelul subunității ribozomale 30 S:",
+        "options": {
+            "a": "Polimixina",
+            "b": "Ciprofloxacina",
+            "c": "Gentamicina",
+            "d": "Cefalexina",
+            "e": "Penicilina G"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Se administrează în crizele hipertensive din feocromocitom:",
+        "options": {
+            "a": "Izosorbid dinitrat",
+            "b": "Digoxin",
+            "c": "Indapmid",
+            "d": "Spironolactona",
+            "e": "Fentolamina"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Lansoprazolul se caracterizează prin:",
+        "options": {
+            "a": "Este inhibitor al pompei de protoni",
+            "b": "Neutralizează acidul clorhidric în stomac",
+            "c": "Stimulează tranzitul intestinal",
+            "d": "Crește tonusul și peristaltica vezicii biliare",
+            "e": "Este mucoprotector"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Bifați afirmația adevărată pentru Metformin:",
+        "options": {
+            "a": "Scade absorbția intestinală a glucozei",
+            "b": "Legarea insulinei de receptorii specifici este scazută",
+            "c": "Inhibă utilizarea extrapancreatică a glucozei",
+            "d": "Crește gluconeogeneza hepatică",
+            "e": "Crește nivelul plasmatic al glucagonului"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Este antiemetic prin blocarea receptorilor H1 de la nivelul sistemului nervos central:",
+        "options": {
+            "a": "Cisaprid",
+            "b": "Famotidina",
+            "c": "Prometazina",
+            "d": "Scopolamina",
+            "e": "Haloperidol"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 7",
+        "question": "Notați contraindicația pentru anticoagulantele orale:",
+        "options": {
+            "a": "Tromboflebite",
+            "b": "Endocardita bacteriană subacută",
+            "c": "Bolnavi cu fibrilație atrială",
+            "d": "Purtători de proteze valvulare",
+            "e": "Tromboze venoase profunde"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Notați cefalosporina care se administrează oral:",
+        "options": {
+            "a": "Cefalotina",
+            "b": "Cefaclor",
+            "c": "Cefoperazona",
+            "d": "Ceftriaxona",
+            "e": "Cefepim"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Bifați afirmația falsă referitoare la minociclină:",
+        "options": {
+            "a": "inhibă sinteza proteică bacteriană",
+            "b": "poate determina toxicitate hepatică",
+            "c": "se administrează exclusiv injectabil",
+            "d": "nu se administrează la copii sub 8 ani",
+            "e": "poate produce fotosensibilitate"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Bifați afirmația adevărată referitoare la glibenclamidă:",
+        "options": {
+            "a": "este un derivat de sulfoniluree",
+            "b": "este o biguanidă",
+            "c": "scade eliberarea de insulină de la nivelul celulelor beta pancreatice",
+            "d": "scade absorbția intestinală a glucozei",
+            "e": "se administrează subcutanat"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Carbenoxolona:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un antiacid",
+            "d": "este un citoprotector",
+            "e": "este un inhibitor al secreției gastrice"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Metamizolul este un:",
+        "options": {
+            "a": "antidiabetic",
+            "b": "antitiroidian",
+            "c": "antiaritmic",
+            "d": "analgezic",
+            "e": "antihipertensiv"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Bifați afirmația adevărată referitoare la oxeladină:",
+        "options": {
+            "a": "deprimă centrul respirației",
+            "b": "este un antitusiv central opioid",
+            "c": "este un mucosecretolitic",
+            "d": "este un bronhodilatator",
+            "e": "este un antitusiv central neopioid"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 8",
+        "question": "Bifați afirmația falsă referitoare la cloramfenicol:",
+        "options": {
+            "a": "este un antibiotic bactericid",
+            "b": "blochează sinteza proteinelor bacteriene",
+            "c": "poate determina supresie medulară",
+            "d": "este inactivă față de Pseudomonas",
+            "e": "poate determina sindromul cenușiu"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Este inhibitor al degranulării mastocitare administrat în astmul bronșic:",
+        "options": {
+            "a": "Beclometazona",
+            "b": "Cromoglicatul disodic",
+            "c": "Zileuton",
+            "d": "Bromura de oxitropium",
+            "e": "Efedrina"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Următoarea afirmație nu caracterizează insulina:",
+        "options": {
+            "a": "Este secretată de celulele β pancreatice",
+            "b": "Inhibă procesul de glicogenogeneză hepatică",
+            "c": "Elementele figurate sanguine nu posedă receptori specifici pentru insulină",
+            "d": "Pancreasul endocrin uman produce circa 18 - 40 UI/zi",
+            "e": "Insulina determină hipoglicemie"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Efectele terapeutice ale nitraților sunt următoarele, cu o excepție:",
+        "options": {
+            "a": "Controlează spasmul coronar",
+            "b": "Au efect relaxant pe musculatura netedă bronșică, tractul gastrointestinal",
+            "c": "Scad presarcina și, consecutiv, presiunea intraventriculară",
+            "d": "Scad postsarcina",
+            "e": "Pot induce un fenomen de 'furt' sanguin"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Este blocant al receptorilor AT1 pentru angiotensina II:",
+        "options": {
+            "a": "Enalapril",
+            "b": "Hidroclorotiazida",
+            "c": "Nifedipina",
+            "d": "Propranolol",
+            "e": "Valsartan"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Bifați mecanismul de acțiune pentru Acenocumarol:",
+        "options": {
+            "a": "Inhibă procesul de carboxilare a factorilor II, VII, IX, X la nivel hepatic",
+            "b": "Inhibă factorul Xa",
+            "c": "Inactivează trombina",
+            "d": "Activează antitrombina III",
+            "e": "Inhibă ireversibil ciclooxigenaza"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Notați utilizarea sulfatului de protamină:",
+        "options": {
+            "a": "Hemoragii determinate de supradozarea heparinei",
+            "b": "Bolnavi cu stenoză mitrală",
+            "c": "Embolii pulmonare",
+            "d": "Fibrilație atrială",
+            "e": "Bolnavi cu proteze valvulare"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Ce clasă de antibiotice este nefrotoxică:",
+        "options": {
+            "a": "Peniciline",
+            "b": "Aminoglicozide",
+            "c": "Sulfamide",
+            "d": "Inhibitorii de beta-lactamază",
+            "e": "Macrolide"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Bifați indicația Lidocainei:",
+        "options": {
+            "a": "Edeme",
+            "b": "Angina pectorală",
+            "c": "HTA",
+            "d": "Insuficiența cardiacă",
+            "e": "Tahiaritmii ventriculare în infarct miocardic"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 9",
+        "question": "Bronhodilatatoarele anticolinergice se caracterizează prin:",
+        "options": {
+            "a": "Administrare orală",
+            "b": "Se fixează pe receptorii muscarinici M3 de la nivel bronșic",
+            "c": "Facilitează acțiunea acetilcolinei",
+            "d": "Bromura de ipratropium are durata lungă de acțiune",
+            "e": "Nu se asociază cu agoniști beta2 adrenergici inhalatori"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Următorul efect caracterizează Prazosinul:",
+        "options": {
+            "a": "Se administrează în insuficiența coronariană",
+            "b": "Crește LDL-colesterol",
+            "c": "Scade HDL-colesterol",
+            "d": "Scade frecvența cardiacă",
+            "e": "La prima doză produce hipotensiune posturală"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Notați antibioticul care blochează sinteza peretelui bacterian:",
+        "options": {
+            "a": "Norfloxacin",
+            "b": "Metronidazol",
+            "c": "Cefuroxim",
+            "d": "Gentamicina",
+            "e": "Eritromicina"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Extractul de Cynara Scolimus are următorul efect:",
+        "options": {
+            "a": "Antiulceros",
+            "b": "Antiemetic",
+            "c": "Coleretic",
+            "d": "Antidiareic",
+            "e": "Prokinetic"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Care este mecanismul de acțiune pentru glicozizii cardiotonici:",
+        "options": {
+            "a": "Inhibă Na+/K+-ATP-aza, prin cuplarea pe situsul pentru ionul de potasiu",
+            "b": "Blochează enzima de conversie a angiotensinei",
+            "c": "Reduc secreția de renina",
+            "d": "Au efect vasodilatator",
+            "e": "Sunt antagoniști ai receptorilor betaadrenergici"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Notați afirmația falsă despre ambroxol:",
+        "options": {
+            "a": "Este metabolit al bromhexinului",
+            "b": "Crește vâscozitatea secrețiilor bronșice",
+            "c": "Favorizează expectorația",
+            "d": "Se administrează oral 30 mg de 2 ori pe zi",
+            "e": "Rareori produce tulburări digestive"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Pirenzepina are următorul efect farmacodinamic:",
+        "options": {
+            "a": "Scade secreția gastrică bazală și pe cea stimulată",
+            "b": "Blochează pompa de protoni",
+            "c": "În mediul acid gastric transformă acidul sulfenic în sulfenamidă",
+            "d": "Este citoprotector",
+            "e": "Crește secreția salivară"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Mecanismul de acțiune pentru Propafenona este:",
+        "options": {
+            "a": "Blochează canalele de sodiu",
+            "b": "Blochează ATP-aza Na/K",
+            "c": "Blochează receptorii β1 adrenergici de la nivelul cordului",
+            "d": "Blochează canalele de potasiu",
+            "e": "Blochează canalele de calciu"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Următoarea afirmație referitoare la medicația antidiabetică este adevărată:",
+        "options": {
+            "a": "Biguanidele antidiabetice sunt indicate în tratamentul diabetului zaharat insulino-dependent",
+            "b": "Biguanidele se indică în cetoacidoza diabetică",
+            "c": "Clorpropamida are un timp de înjumătățire plasmatic lung",
+            "d": "Buforminul se administrează cu o oră înainte de masă",
+            "e": "Glucagonul este un polipeptid cu 29 de aminoacizi produs de celulele β ale insulelor Langerhans"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 10",
+        "question": "Furosemidul are următorul mecanism de acțiune:",
+        "options": {
+            "a": "Blochează co-transportorul Na+,K+/2Cl-",
+            "b": "Reduce absorbția de Na+ la nivelul tubului contort distal",
+            "c": "Inhibă anhidraza carbonica",
+            "d": "Blochează fixarea aldosteronului pe receptorii specifici",
+            "e": "Crește diureza prin mecanism osmotic"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Notati afirmatia adevarata despre Metoclopramid:",
+        "options": {
+            "a": "Blocheaza receptorii serotoninergici",
+            "b": "In doze mari blocheaza si receptorii muscarinici",
+            "c": "Prezinta efect prokinetic",
+            "d": "Benzodiazepinele antagonizeaza efectul antiemetic",
+            "e": "Nu produce tulburari extrapiramidale"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Notati afirmatia falsa despre Streptomicina:",
+        "options": {
+            "a": "Se utilizeaza aproape exclusiv ca antituberculos",
+            "b": "Nu dezvolta rezistenta cand se administreaza in unica terapie",
+            "c": "Se administreaza intramuscular",
+            "d": "15 mg/Kgc reprezinta doza unica administrata pe zi",
+            "e": "Neurotoxicitatea este potentata de diuretice de ansa"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Notati antiaritmicul utilizat doar in tratamentul aritmiilor din intoxicatia digitalica:",
+        "options": {
+            "a": "Hidralazina",
+            "b": "Rezerpina",
+            "c": "Verapamil",
+            "d": "Nifedipina",
+            "e": "Fenitoina"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Bifati afirmatia adevarata referitoare la Formoterol:",
+        "options": {
+            "a": "In administrare orala are cea mai buna biodisponibilitate",
+            "b": "Deprima centrul tusei",
+            "c": "Produce bronhodilatatie",
+            "d": "Are actiune muscarincolinolitica",
+            "e": "Se administreaza la 4 - 6 ore"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Precizati dezavantajul utilizarii pulberii de tiroida:",
+        "options": {
+            "a": "Contine levotiroxina",
+            "b": "Dozare aproximativa",
+            "c": "Stimuleaza neoglucogeneza",
+            "d": "Nu se administreaza in hipotiroidie",
+            "e": "Efectul este antagonizat de hormonul somatotrop"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Se pot administra in infectii stafilococice: A. Stamicin, B. Oxacilina, C. Cloxacilina, D. Nafcilina, E. Metronidazol. Raspuns corect:",
+        "options": {
+            "a": "A, B, C",
+            "b": "A, B, E",
+            "c": "A, D, E",
+            "d": "B, C, D",
+            "e": "B, D, E"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Urmatoarea afirmatie despre Eritromicina este adevarata:",
+        "options": {
+            "a": "Inhiba sinteza proteinelor bacteriene",
+            "b": "Se leaga de subunitatea ribozomala 30 S interferand cu tetraciclina",
+            "c": "Nu este activa pe Legionella",
+            "d": "La persoanele alergice la Penicilina nu se administreaza",
+            "e": "Nu sunt mentionate reactii adverse gastro-intestinale"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Sunt biguanide antidiabetice: A. Glipizid, B. Buformim, C. Glibenclamid, D. Tolazamid, E. Fenformin. Raspuns corect:",
+        "options": {
+            "a": "A, B",
+            "b": "A, C",
+            "c": "B, C",
+            "d": "D, E",
+            "e": "B, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Notati bronhodilatatorul care blocheaza fosfodiesteraza:",
+        "options": {
+            "a": "Bromura de oxitropium",
+            "b": "Teofilina",
+            "c": "Fluticazona",
+            "d": "Fenoterol",
+            "e": "Budesonid"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 1",
+        "question": "Bifati medicamentul care actioneaza pe micoplasme:",
+        "options": {
+            "a": "Claritromicina",
+            "b": "Metronidazol",
+            "c": "Izoniazida",
+            "d": "Etionamida",
+            "e": "Streptomicina"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 2",
+        "question": "Notati medicamentul din grupa aminopenicilinelor:",
+        "options": {
+            "a": "Tetraciclina",
+            "b": "Norfloxacin",
+            "c": "Gentamicina",
+            "d": "Bacitracina",
+            "e": "Ampicilina"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 2",
+        "question": "Sunt factori care favorizeaza aparitia efectelor adverse ale glicozizilor cardiotonici, cu exceptia:",
+        "options": {
+            "a": "Hipopotasemie",
+            "b": "Hipoxemie",
+            "c": "Hipercalcemie",
+            "d": "Fibrilatie atriala",
+            "e": "Febra"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 2",
+        "question": "Bifati afirmatia falsa referitoare la Heparina:",
+        "options": {
+            "a": "Efectul se datoreaza cuplarii cu o a2 globulina plasmatica",
+            "b": "Heparina inhiba lipoproteinlipaza",
+            "c": "Efectul heparinei este foarte rapid si intens",
+            "d": "Este activa atat in vivo cat si in vitro",
+            "e": "Este inactiva in administrare orala"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 2",
+        "question": "Pentru tratamentul retentiei hidrosaline se administreaza:",
+        "options": {
+            "a": "Furosemid",
+            "b": "Clonidina",
+            "c": "Fenitoina",
+            "d": "Propafenona",
+            "e": "Captopril"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 2",
+        "question": "Bifati afirmatia falsa referitoare la Tetraciclina:",
+        "options": {
+            "a": "Este un antibiotic bactericid",
+            "b": "Blocheaza sinteza proteinelor bacteriene",
+            "c": "Se poate administra in holera",
+            "d": "Spectrul antibacterian este larg",
+            "e": "Poate determina fotosensibilizare"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 2",
+        "question": "Este alfa1 blocant selectiv antihipertensiv:",
+        "options": {
+            "a": "Clonidina",
+            "b": "Metoprolol",
+            "c": "Prazosin",
+            "d": "Verapamil",
+            "e": "Labetalol"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 2",
+        "question": "Bifati anticoagulantul administrat subcutanat:",
+        "options": {
+            "a": "Dipiridamol",
+            "b": "Enoxaparina",
+            "c": "Acenocumarol",
+            "d": "Acid acetilsalicilic",
+            "e": "Sulfinpirazona"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 2",
+        "question": "Notati inhibitorul enzimei de conversie a angiotensinei I in angiotensina II:",
+        "options": {
+            "a": "Enalapril",
+            "b": "Valsartan",
+            "c": "Nifedipina",
+            "d": "Propranolol",
+            "e": "Furosemid"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 3",
+        "question": "Are efect antiagregant plachetar la doze mici:",
+        "options": {
+            "a": "Heparina",
+            "b": "Enoxaparina",
+            "c": "Acid acetilsalicilic",
+            "d": "Fraxiparina",
+            "e": "Streptokinaza"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 3",
+        "question": "Nu este un efect produs de diureticele de ansa:",
+        "options": {
+            "a": "Hipopotasemie",
+            "b": "Acidoza sistemica",
+            "c": "Ototoxicitate",
+            "d": "Hipocalcemie",
+            "e": "Hipomagneziemie"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 3",
+        "question": "Etambutolul se caracterizeaza prin:",
+        "options": {
+            "a": "Este activ strict asupra diferitelor tulpini de Mycobacterii",
+            "b": "Nu este activ pe germeni inclusi in macrophage",
+            "c": "Stimuleaza sinteza acidului micolic in peretele bacterian",
+            "d": "Nu dezvolta rezistenta cand este administrat singur",
+            "e": "Nu se absoarbe digestiv"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 3",
+        "question": "Bifati afirmatiile adevarate referitoare la Famotidina: A. Este un antihistaminic H2, B. Se utilizeaza pentru efect antispastic, C. Scade puternic secretia bazala gastrica, D. Nu determina inhibitie enzimatica, E. Este un prokinetic.",
+        "options": {
+            "a": "A, B, D",
+            "b": "A, C, D",
+            "c": "B, D, E",
+            "d": "C, D, E",
+            "e": "A, D, E"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 3",
+        "question": "Este un rezultat al deficitului insulinic:",
+        "options": {
+            "a": "Cresterea sintezei proteice",
+            "b": "Distrofie musculara",
+            "c": "Scaderea eliminarilor urinare de uree",
+            "d": "Eliminare scazuta de acizi grasi",
+            "e": "Hipoglicemie"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 3",
+        "question": "Uleiul de ricin este:",
+        "options": {
+            "a": "Purgativ salin",
+            "b": "Laxativ de volum",
+            "c": "Purgativ iritant",
+            "d": "Laxativ emolient",
+            "e": "Citoprotector"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 3",
+        "question": "Notati enzima implicata in sinteza hormonilor tiroidieni:",
+        "options": {
+            "a": "Ciclooxigenaza",
+            "b": "Peroxidaza",
+            "c": "Fosfolipaza A2",
+            "d": "Fosfodiesteraza",
+            "e": "Adenilat ciclaza"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 3",
+        "question": "Notati antibioticul din grupa aminoglicozidelor:",
+        "options": {
+            "a": "Acid nalidixic",
+            "b": "Sulfalen",
+            "c": "Cloramfenicol",
+            "d": "Gentamicina",
+            "e": "Bacitracina"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 4",
+        "question": "Urmatoarele afirmatii caracterizeaza Verapamilul: A. Blocheaza receptorii alfa 1-adrenergici, B. Stimuleaza functiile cronotropa, dromotropa, C. Reduce consumul de oxigen la nivel cardiac, D. Se administreaza cu precautie in blocul AV, E. Creste semnificativ concentratia plasmatica a digoxinei.",
+        "options": {
+            "a": "A, B, C",
+            "b": "B, C, D",
+            "c": "A, D, E",
+            "d": "B, D, E",
+            "e": "C, D, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 4",
+        "question": "Se evita folosirea heparinei la urmatorii bolnavi, cu exceptia:",
+        "options": {
+            "a": "Tuberculoza activa",
+            "b": "Ulcer gastroduodenal activ",
+            "c": "Accident vascular cerebral hemoragic",
+            "d": "Iminenta de avort",
+            "e": "Tromboze venoase profunde"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 4",
+        "question": "Face parte din grupul de antihipertensive neurosimpatolitice:",
+        "options": {
+            "a": "Prazosin",
+            "b": "Clonidina",
+            "c": "Hidralazina",
+            "d": "Rezerpina",
+            "e": "Nitroprusiat de sodiu"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 4",
+        "question": "Bifati blocantul receptorilor AT1 pentru angiotensina II:",
+        "options": {
+            "a": "Enalapril",
+            "b": "Canrenona",
+            "c": "Irbesartan",
+            "d": "Procainamida",
+            "e": "Spironolactona"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 4",
+        "question": "Mexiletina este indicata in:",
+        "options": {
+            "a": "Edeme",
+            "b": "Angina pectorala",
+            "c": "HTA",
+            "d": "Insuficienta cardiaca",
+            "e": "Aritmii ventriculare"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 4",
+        "question": "Urmatoarea afirmatie referitoare la medicatia antidiabetica este adevarata:",
+        "options": {
+            "a": "Biguanidele antidiabetice sunt indicate in tratamentul diabetului zaharat insulino-dependent",
+            "b": "Biguanidele se indica in cetoacidoza diabetica",
+            "c": "Clorpropamida are un timp de injumatatire plasmatic lung",
+            "d": "Buforminul se administreaza cu o ora inainte de masa",
+            "e": "Glucagonul este un polipeptid cu 29 de aminoacizi produs de celulele beta ale insulelor Langerhans"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 4",
+        "question": "Notati afirmatia adevarata despre Metoclopramid:",
+        "options": {
+            "a": "Blocheaza receptorii serotoninergici",
+            "b": "In doze mari blocheaza si receptorii muscarinici",
+            "c": "Prezinta efect prokinetic",
+            "d": "Benzodiazepinele antagonizeaza efectul antiemetic",
+            "e": "Nu produce tulburari extrapiramidale"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 4",
+        "question": "Notati preparatul de fier injectabil:",
+        "options": {
+            "a": "Sulfat feros",
+            "b": "Gluconat feros",
+            "c": "Glutamat feros",
+            "d": "Fumarat feros",
+            "e": "Fier polimaltozat"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Notati antibioticul care actioneaza prin blocarea topoizomerazelor bacteriene II si IV:",
+        "options": {
+            "a": "Polimixina",
+            "b": "Carbenicilina",
+            "c": "Norfloxacina",
+            "d": "Eritromicina",
+            "e": "Penicilina G"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Precizati antibioticul care coloreaza smaltul dentar la copii sub 8 ani:",
+        "options": {
+            "a": "Cefaclor",
+            "b": "Tetraciclina",
+            "c": "Benzatinbenzilpenicilina",
+            "d": "Benzilpenicilina",
+            "e": "Cefalexin"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Antihistaminicele H2 se caracterizeaza prin:",
+        "options": {
+            "a": "Este medicatia pentru spasmele intestinale",
+            "b": "Inhiba secretia stimulata de gastrina",
+            "c": "Sunt activate de pH-ul alcalin",
+            "d": "Se folosesc pentru efectul inductor enzimatic",
+            "e": "In ulcerul de stress sunt contraindicate"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Urmatoarea afirmatie caracterizeaza Indapamida:",
+        "options": {
+            "a": "Durata mare de actiune, peste 24 ore",
+            "b": "Este cel mai activ diuretic",
+            "c": "Ramura ascendenta a ansei Henle este locul de actiune",
+            "d": "Blocheaza co-transportorul Na,K/2Cl",
+            "e": "Intensitatea efectului este direct proportionala cu doza"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Notati afirmatia falsa despre ambroxol:",
+        "options": {
+            "a": "Este metabolit al bromhexinului",
+            "b": "Creste vascozitatea secretiilor bronsice",
+            "c": "Favorizeaza expectoratia",
+            "d": "Se administreaza oral 30 mg de 2 ori pe zi",
+            "e": "Rareori produce tulburari digestive"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Notati afectiunea in care se administreaza inhibitori ai degranularii mastocitare:",
+        "options": {
+            "a": "Ulcer duodenal",
+            "b": "Hiperglicemie",
+            "c": "HTA",
+            "d": "Astm bronsic alergic",
+            "e": "Bronsita cronica obstructiva"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Spironolactona: A. Reduce absorbtia sodiului din lumenul tubular, B. Efectul diuretic este slab, C. Doza variaza intre 1 - 2 g/zi, D. Este indicata in toate formele de hiperaldosteronism secundar, E. Produce hipokaliemie.",
+        "options": {
+            "a": "A, B, C",
+            "b": "B, C, D",
+            "c": "B, D, E",
+            "d": "A, B, D",
+            "e": "A, B, E"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Notati afirmatia falsa referitoare la insulina:",
+        "options": {
+            "a": "Este secretata de celulele beta pancreatice",
+            "b": "Inhiba procesul de glicogenogeneza hepatica",
+            "c": "Elementele figurate sanguine nu poseda receptori specifici pentru insulina",
+            "d": "Pancreasul endocrin uman produce circa 18 - 40 UI/zi",
+            "e": "Insulina determina hipoglicemie"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Precizati antiaritmicul care nu este incadrat corect:",
+        "options": {
+            "a": "Procainamida este antiaritmic din clasa I A",
+            "b": "Propranolol este antiaritmic din clasa II",
+            "c": "Lidocaina este antiaritmic din clasa III",
+            "d": "Verapamil este antiaritmic din clasa IV",
+            "e": "Propafenona este antiaritmic din clasa I C"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 5",
+        "question": "Sulfatul de protamina este indicat in:",
+        "options": {
+            "a": "Hemoragii determinate de supradozarea heparinei",
+            "b": "Bolnavi cu stenoza mitrala",
+            "c": "Embolii pulmonare",
+            "d": "Fibrilatie atriala",
+            "e": "Bolnavi cu proteze valvulare"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Se administreaza in criza de angina pectorala vasospastica sublingual:",
+        "options": {
+            "a": "Nadolol",
+            "b": "Nitroglicerina",
+            "c": "Pindolol",
+            "d": "Captopril",
+            "e": "Procainamida"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Absorbtia fierului este favorizata de:",
+        "options": {
+            "a": "Acid lactic",
+            "b": "Siderofilina",
+            "c": "Vitamina C",
+            "d": "Fosfati",
+            "e": "Acid fitic"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Inhiba ARN-polimeraza ADN-dependenta:",
+        "options": {
+            "a": "Polimixina",
+            "b": "Rifampicina",
+            "c": "Oxacilina",
+            "d": "Eritromicina",
+            "e": "Cefuroxima"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Notati afirmatia adevarata despre Oxeladina:",
+        "options": {
+            "a": "Are structura de tip opioid",
+            "b": "Este un antitusiv periferic",
+            "c": "Nu deprima centrul respirator",
+            "d": "Se administreaza oral 1000 mg de 3 ori pe zi",
+            "e": "Are efect sedativ"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Este un bronhodilatator anticolinergic:",
+        "options": {
+            "a": "Terbutalina",
+            "b": "Fenoterol",
+            "c": "Salbutamol",
+            "d": "Fluticazona",
+            "e": "Oxitropium"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Notati antiemeticul blocant al receptorilor H1 de la nivelul sistemului nervos central:",
+        "options": {
+            "a": "Esomeprazol",
+            "b": "Prometazina",
+            "c": "Octreotid",
+            "d": "Scopolamina",
+            "e": "Haloperidol"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Notati penicilina rezistenta la beta-lactamaza stafilococica:",
+        "options": {
+            "a": "Benzatinbenzilpenicilina",
+            "b": "Amoxicilina",
+            "c": "Benzilpenicilina",
+            "d": "Oxacilina",
+            "e": "Ampicilina"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Sucralfatul se caracterizeaza prin: A. Se leaga de proteinele de la nivelul nisei ulceroase, B. Realizeaza efect citoprotector, C. Nu fixeaza sarurile biliare, D. Inhiba secretia de prostaglandine, E. Poate reduce absorbtia intestinala prin chelare pentru tetraciclina.",
+        "options": {
+            "a": "A, B, C",
+            "b": "B, C, D",
+            "c": "A, B, E",
+            "d": "B, C, E",
+            "e": "A, B, D"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Insulina zinc cristalina standard se caracterizeaza prin:",
+        "options": {
+            "a": "Este o insulina insolubila",
+            "b": "Durata de actiune scurta 5 - 7 ore",
+            "c": "Debutul efectului la 60 minute de la administrarea s.c",
+            "d": "Nu se administreaza in urgente",
+            "e": "Uzual se administreaza oral"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Bifati afirmatia falsa despre heparina:",
+        "options": {
+            "a": "Efectul este foarte rapid",
+            "b": "Se dozeaza in ml",
+            "c": "Este inactiva in administrare orala",
+            "d": "Se indica in afectiuni cu risc emboligen",
+            "e": "Se evita la bolnavii cu hemofilie"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 6",
+        "question": "Bifati afirmatia corecta despre Ceftibuten:",
+        "options": {
+            "a": "Este cefalosporina cu administrare orala",
+            "b": "Blocheaza sinteza proteica la nivel ribozomal",
+            "c": "Nu determina aparitia rezistentei",
+            "d": "Este contraindicat in infectii cu enterobacteriacee",
+            "e": "Nu produce reactii de hipersensibilizare alergica"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 7",
+        "question": "Notati afirmatia adevarata referitoare la acenocumarol:",
+        "options": {
+            "a": "Efectul apare consecutiv cuplarii cu antitrombina III",
+            "b": "Blocheaza ireversibil ciclooxigenaza",
+            "c": "Este inactivat dupa administrare orala",
+            "d": "Inhiba carboxilarea hepatica a factorilor II, VII, IX, X",
+            "e": "Se administreaza subcutanat"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 7",
+        "question": "Bifati afirmatia adevarata referitoare la azitromicina:",
+        "options": {
+            "a": "Este un antibiotic cu spectru larg",
+            "b": "Este un aminoglicozid",
+            "c": "Nu se administreaza in infectiile respiratorii",
+            "d": "Este un inhibitor al sintezei proteinelor bacteriene",
+            "e": "Se administreaza exclusiv parenteral"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 7",
+        "question": "Bifati afirmatia falsa referitoare la doxiciclina:",
+        "options": {
+            "a": "Inhiba sinteza proteica bacteriana",
+            "b": "Poate determina toxicitate hepatica",
+            "c": "Se administreaza exclusiv injectabil",
+            "d": "Poate determina greata",
+            "e": "Se administreaza in infectiile cu Mycoplasma pneumoniae"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 7",
+        "question": "Bifati afirmatia adevarata referitoare la metformin:",
+        "options": {
+            "a": "Este un derivat de sulfoniluree",
+            "b": "Creste absorbtia intestinala a glucozei",
+            "c": "Scade legarea insulinei de receptorii specifici",
+            "d": "Poate determina acidoza lactica",
+            "e": "Creste nivelul plasmatic al glucagonului"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 7",
+        "question": "Metoclopramidul:",
+        "options": {
+            "a": "Este un blocant al receptorilor D2",
+            "b": "Este un antiemetic blocant al receptorilor H1",
+            "c": "Se utilizeaza in tratamentul diareei",
+            "d": "Este un antiacid",
+            "e": "Este un antispastic"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 7",
+        "question": "Metiltiouracilul este un:",
+        "options": {
+            "a": "Anestezic general",
+            "b": "Antitiroidian",
+            "c": "Antiaritmic",
+            "d": "Anestezic local",
+            "e": "Antihipertensiv"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 7",
+        "question": "Este un expectorant mucosecretolitic:",
+        "options": {
+            "a": "Codeina",
+            "b": "Salbutamolul",
+            "c": "Acetilcisteina",
+            "d": "Ipeca",
+            "e": "Dionina"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 7",
+        "question": "Bifati afirmatia falsa referitoare la gentamicina:",
+        "options": {
+            "a": "Este un antibiotic bactericid",
+            "b": "Blocheaza sinteza proteinelor bacteriene",
+            "c": "Poate determina nefrotoxicitate",
+            "d": "Este inactiva fata de germenii Gram (-) si Gram (+)",
+            "e": "Se utilizeaza in asociere cu betalactaminele in tratamentul infectiilor urinare"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Prometazina este:",
+        "options": {
+            "a": "Antiemetic",
+            "b": "Antisecretor gastric",
+            "c": "Stimulant al secretiei gastrice",
+            "d": "Antispastic",
+            "e": "Antidiareic"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Bifati preparatul utilizat in criza de astm bronsic:",
+        "options": {
+            "a": "Teofilina",
+            "b": "Terbutalina",
+            "c": "Propranolol",
+            "d": "Zileuton",
+            "e": "Salmeterol"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Pirenzepina actioneaza prin:",
+        "options": {
+            "a": "Blocarea receptorilor beta 2",
+            "b": "Blocarea receptorilor H2",
+            "c": "Blocarea receptorilor muscarinici",
+            "d": "Inhibitia fosfodiesterazelor",
+            "e": "Stimularea patrunderii calciului in celula"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Notati afectiunea in care nu administram Domperidona:",
+        "options": {
+            "a": "Dispepsia",
+            "b": "Tratamentul diareei",
+            "c": "Boala de reflux gastro-esofagian",
+            "d": "Tratamentul constipatiei",
+            "e": "Ileusul post-operator"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Notati diureticul antagonist competitiv al aldosteronului:",
+        "options": {
+            "a": "Furosemid",
+            "b": "Triamteren",
+            "c": "Clopamida",
+            "d": "Spironolactona",
+            "e": "Bumetamida"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Sunt efecte adverse ale glicozizilor cardiotonici, cu exceptia:",
+        "options": {
+            "a": "Perturbarea perceptiei culorilor",
+            "b": "Bradicardie",
+            "c": "Greata",
+            "d": "Constipatie",
+            "e": "Extrasistole atriale sau ventriculare"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Furosemidul:",
+        "options": {
+            "a": "Produce hiperpotasemie",
+            "b": "Produce hipercalcemie",
+            "c": "Blocheaza co-transportorul Na+, K+/2Cl-",
+            "d": "Blocheaza fixarea aldosteronului pe receptorii specifici",
+            "e": "Blocheaza anhidraza carbonica"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Labetalolul: A. este un betaadrenomimetic, B. este un betablocant selectiv, C. blocheaza si receptorii alfa 1, D. poate determina cresterea tensiunii arteriale, E. se poate administra la pacientii cu angina pectorala.",
+        "options": {
+            "a": "A, D",
+            "b": "A, E",
+            "c": "B, D",
+            "d": "C, D",
+            "e": "C, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Sulfatul de magneziu:",
+        "options": {
+            "a": "Este un antispastic",
+            "b": "Este un antiemetic",
+            "c": "Este un purgativ osmotic",
+            "d": "Este un citoprotector",
+            "e": "Este un purgativ iritant"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "Notati afirmatia adevarata referitoare la verapamil:",
+        "options": {
+            "a": "Este un derivat dihidropiridinic",
+            "b": "Blocheaza enzima de conversie a angiotensinei",
+            "c": "Poate determina edeme periferice",
+            "d": "Determina cresterea tensiunii arteriale",
+            "e": "Determina tahicardie"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 8",
+        "question": "In supradozajul de acenocumarol se administreaza:",
+        "options": {
+            "a": "Heparina",
+            "b": "Fitomenadiona (Vitamina K1)",
+            "c": "Sulfat de protamina",
+            "d": "Fizostigmina",
+            "e": "Acid acetilsalicilic"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 9",
+        "question": "Notati cefalosporina care se administreaza oral:",
+        "options": {
+            "a": "Cefalotina",
+            "b": "Cefaclor",
+            "c": "Cefoperazona",
+            "d": "Ceftriaxona",
+            "e": "Cefepim"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Farmacologie Setul 9",
+        "question": "Bifati afirmatia falsa referitoare la minociclina:",
+        "options": {
+            "a": "Inhiba sinteza proteica bacteriana",
+            "b": "Poate determina toxicitate hepatica",
+            "c": "Se administreaza exclusiv injectabil",
+            "d": "Nu se administreaza la copii sub 8 ani",
+            "e": "Poate produce fotosensibilitate"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Farmacologie Setul 9",
+        "question": "Bifati afirmatia adevarata referitoare la glibenclamida:",
+        "options": {
+            "a": "Este un derivat de sulfoniluree",
+            "b": "Este o biguanida",
+            "c": "Scade eliberarea de insulina de la nivelul celulelor beta pancreatice",
+            "d": "Scade absorbtia intestinala a glucozei",
+            "e": "Se administreaza subcutanat"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Farmacologie Setul 9",
+        "question": "Carbenoxolona:",
+        "options": {
+            "a": "Este un antispastic",
+            "b": "Este un antiemetic",
+            "c": "Este un antiacid",
+            "d": "Este un citoprotector",
+            "e": "Este un inhibitor al secretiei gastrice"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 9",
+        "question": "Metamizolul este un:",
+        "options": {
+            "a": "Antidiabetic",
+            "b": "Antitiroidian",
+            "c": "Antiaritmic",
+            "d": "Analgezic",
+            "e": "Antihipertensiv"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Farmacologie Setul 9",
+        "question": "Bifati afirmatia adevarata referitoare la oxeladina:",
+        "options": {
+            "a": "Deprima centrul respiratiei",
+            "b": "Este un antitusiv central opioid",
+            "c": "Este un mucosecretolitic",
+            "d": "Este un bronhodilatator",
+            "e": "Este un antitusiv central neopioid"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Farmacologie Setul 9",
+        "question": "Bifati afirmatia falsa referitoare la cloramfenicol:",
+        "options": {
+            "a": "Este un antibiotic bactericid",
+            "b": "Blocheaza sinteza proteinelor bacteriene",
+            "c": "Poate determina supresie medulara",
+            "d": "Este inactiva fata de Pseudomonas",
+            "e": "Poate determina sindromul cenusiu"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Prometazina este:",
+        "options": {
+            "a": "Antiemetic",
+            "b": "Antisecretor gastric",
+            "c": "Stimulant al secretiei gastrice",
+            "d": "Antispastic",
+            "e": "Antidiareic"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Bifati preparatul utilizat in criza de astm bronsic:",
+        "options": {
+            "a": "teofilina",
+            "b": "terbutalina",
+            "c": "propranolol",
+            "d": "zileuton",
+            "e": "salmeterol"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Pirenzepina actioneaza prin:",
+        "options": {
+            "a": "blocarea receptorilor beta 2",
+            "b": "blocarea receptorilor H2",
+            "c": "blocarea receptorilor muscarinici",
+            "d": "inhibitia fosfodiesterazelor",
+            "e": "stimularea patrunderii calciului in celula"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Notati afectiunea in care nu administram Domperidona:",
+        "options": {
+            "a": "dispepsia",
+            "b": "tratamentul diareei",
+            "c": "boala de reflux gastro-esofagian",
+            "d": "tratamentul constipatiei",
+            "e": "ileusul post-operator"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Notati diureticul antagonist competitiv al aldosteronului:",
+        "options": {
+            "a": "Furosemid",
+            "b": "Triamteren",
+            "c": "Clopamida",
+            "d": "Spironolactona",
+            "e": "Bumetamida"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Sunt efecte adverse ale glicozizilor cardiotonici, cu exceptia:",
+        "options": {
+            "a": "perturbarea perceptiei culorilor",
+            "b": "bradicardie",
+            "c": "greata",
+            "d": "constipatie",
+            "e": "extrasistole atriale sau ventriculare"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Furosemidul:",
+        "options": {
+            "a": "produce hiperpotasemie",
+            "b": "produce hipercalcemie",
+            "c": "blocheaza co-transportorul Na+, K+/2Cl",
+            "d": "blocheaza fixarea aldosteronului pe receptorii specifici",
+            "e": "blocheaza anhidraza carbonica"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Labetalolul: A. este un betaadrenomimetic B. este un betablocant selectiv C. blocheaza si receptorii alfa 1 D. poate determina cresterea tensiunii arteriale E. se poate administra la pacientii cu angina pectorala",
+        "options": {
+            "a": "A, D",
+            "b": "A, E",
+            "c": "B, D",
+            "d": "C, D",
+            "e": "C, E"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Sulfatul de magneziu:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un purgativ osmotic",
+            "d": "este un citoprotector",
+            "e": "este un purgativ iritant"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "Notati afirmatia adevarata referitoare la verapamil:",
+        "options": {
+            "a": "este un derivat dihidropiridinic",
+            "b": "blocheaza enzima de conversie a angiotensinei",
+            "c": "poate determina edeme periferice",
+            "d": "determina cresterea tensiunii arteriale",
+            "e": "determina tahicardie"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 1",
+        "question": "In supradozajul de acenocumarol se administreaza:",
+        "options": {
+            "a": "heparina",
+            "b": "fitomenadiona",
+            "c": "sulfat de protamina",
+            "d": "fizostigmina",
+            "e": "acid acetilsalicilic"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Notati cefalosporina care se administreaza oral:",
+        "options": {
+            "a": "Cefalotina",
+            "b": "Cefaclor",
+            "c": "Cefoperazona",
+            "d": "Ceftriaxona",
+            "e": "Cefepim"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Bifati afirmatia falsa referitoare la minociclina:",
+        "options": {
+            "a": "inhiba sinteza proteica bacteriana",
+            "b": "poate determina toxicitate hepatica",
+            "c": "se administreaza exclusiv injectabil",
+            "d": "nu se administreaza la copii sub 8 ani",
+            "e": "poate produce fotosensibilitate"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Bifati afirmatia adevarata referitoare la glibenclamida:",
+        "options": {
+            "a": "este un derivat de sulfoniluree",
+            "b": "este o biguanida",
+            "c": "scade eliberarea de insulina de la nivelul celulelor beta pancreatice",
+            "d": "scade absorbtia intestinala a glucozei",
+            "e": "se administreaza subcutanat"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Carbenoxolona:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un antiacid",
+            "d": "este un citoprotector",
+            "e": "este un inhibitor al secretiei gastrice"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Metamizolul este un:",
+        "options": {
+            "a": "antidiabetic",
+            "b": "antitiroidian",
+            "c": "antiaritmic",
+            "d": "analgezic",
+            "e": "antihipertensiv"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Bifati afirmatia adevarata referitoare la oxeladina:",
+        "options": {
+            "a": "deprima centrul respiratiei",
+            "b": "este un antitusiv central opioid",
+            "c": "este un mucosecretolitic",
+            "d": "este un bronhodilatator",
+            "e": "este un antitusiv central neopioid"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Grile Rezolvate - Secțiunea 2",
+        "question": "Bifati afirmatia falsa referitoare la cloramfenicol:",
+        "options": {
+            "a": "este un antibiotic bactericid",
+            "b": "blocheaza sinteza proteinelor bacteriene",
+            "c": "poate determina supresie medulara",
+            "d": "este inactiva fata de Pseudomonas",
+            "e": "poate determina sindromul cenusiu"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati diureticul care actioneaza la nivelul tubului contort proximal:",
+        "options": {
+            "a": "indapamida",
+            "b": "hidroclorotiazida",
+            "c": "furosemidul",
+            "d": "spironolactona",
+            "e": "acetazolamida"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati afirmatia adevarata referitoare la teofilina:",
+        "options": {
+            "a": "produce bradicardie",
+            "b": "este bronhodilatator beta-adrenomimetic",
+            "c": "este bronhodilatator anticolinergic",
+            "d": "stimuleaza fosfodiesterazele",
+            "e": "poate produce tahicardie"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati afirmatia adevarata referitoare la bromura de tiotropium:",
+        "options": {
+            "a": "este un bronhodilatator indicat in tratamentul crizelor astmatice",
+            "b": "inhiba fosfodiesterazele",
+            "c": "este un bronhodilatator adrenomimetic",
+            "d": "se administreaza injectabil intravenos",
+            "e": "este un bronhodilatator anticolinergic"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati afirmatia adevarata referitoare la pirenzepina:",
+        "options": {
+            "a": "este un antiacid",
+            "b": "este un citoprotector",
+            "c": "este un antihistaminic H1",
+            "d": "este un inhibitor al pompei de protoni",
+            "e": "este un antisecretor gastric"
+        },
+        "correct_answer": "e"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Amiloridul:",
+        "options": {
+            "a": "produce hipopotasemie",
+            "b": "este un anestezic general",
+            "c": "se administreaza de electie in crizele hipertensive, pe cale intravenoasa",
+            "d": "produce hiperpotasemie",
+            "e": "este un diuretic tiazidic"
+        },
+        "correct_answer": "d"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Notati efectul farmacodinamic al glicozizilor cardiotonici:",
+        "options": {
+            "a": "Inotrop pozitiv",
+            "b": "batmotrop negativ",
+            "c": "dromotrop pozitiv",
+            "d": "inotrop negativ",
+            "e": "cronotrop pozitiv"
+        },
+        "correct_answer": "a"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Nitroglicerina produce:",
+        "options": {
+            "a": "coronarodilatatie in teritoriul ischemic",
+            "b": "bradicardie",
+            "c": "venodilatatie",
+            "d": "cresterea tensiunii arteriale",
+            "e": "vasoconstrictie in teritoriul arterial"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Bifati afirmatia adevarata referitoare la lidocaina:",
+        "options": {
+            "a": "este un antiaritmic din clasa IA",
+            "b": "se administreaza in aritmiile din intoxicatia digitalica",
+            "c": "se administreaza exclusiv in aritmiile atriale",
+            "d": "este un beta blocant",
+            "e": "este un blocant al canalelor de K"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Carbonatul de calciu:",
+        "options": {
+            "a": "este un antispastic",
+            "b": "este un antiemetic",
+            "c": "este un antiacid",
+            "d": "este un citoprotector",
+            "e": "este un laxativ de volum"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "test": "Testul 88",
+        "question": "Notati antihipertensivul care actioneaza prin blocarea receptorilor pentru angiotensina:",
+        "options": {
+            "a": "metoprolol",
+            "b": "nifedipina",
+            "c": "enalapril",
+            "d": "clonidina",
+            "e": "candesartan"
+        },
+        "correct_answer": "e"
+    }
+]

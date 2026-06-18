@@ -6,8 +6,26 @@ type Question = {
   test: string;
   question: string;
   options: Record<string, string>;
-  correct_answer: string;
+  // Backwards compatible: older data uses a single `correct_answer` string,
+  // newer multi-answer data uses a `correct_answers` array.
+  correct_answer?: string;
+  correct_answers?: string[];
+  type?: string;
+  number?: number;
 };
+
+/** Normalize either schema to the list of correct option keys. */
+function correctKeys(q: Question): string[] {
+  if (q.correct_answers && q.correct_answers.length > 0) return q.correct_answers;
+  if (q.correct_answer) return [q.correct_answer];
+  return [];
+}
+
+function sameSet(a: string[], b: string[]): boolean {
+  if (a.length !== b.length) return false;
+  const sb = new Set(b);
+  return a.every((x) => sb.has(x));
+}
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -25,7 +43,8 @@ export default function Quiz() {
   // session state
   const [order, setOrder] = useState<Question[]>([]);
   const [idx, setIdx] = useState(0);
-  const [picked, setPicked] = useState<string | null>(null);
+  const [selected, setSelected] = useState<string[]>([]);
+  const [revealed, setRevealed] = useState(false);
   const [correctCount, setCorrectCount] = useState(0);
   const [answeredCount, setAnsweredCount] = useState(0);
 
@@ -46,7 +65,8 @@ export default function Quiz() {
     if (!all) return;
     setOrder(shuffle(all));
     setIdx(0);
-    setPicked(null);
+    setSelected([]);
+    setRevealed(false);
     setCorrectCount(0);
     setAnsweredCount(0);
   }
@@ -59,16 +79,36 @@ export default function Quiz() {
     () => (current ? Object.keys(current.options) : []),
     [current],
   );
+  const answers = useMemo(() => (current ? correctKeys(current) : []), [current]);
+  const isMulti = answers.length > 1;
 
-  function pick(key: string) {
-    if (picked !== null || !current) return;
-    setPicked(key);
+  function grade(picks: string[]) {
+    setRevealed(true);
     setAnsweredCount((c) => c + 1);
-    if (key === current.correct_answer) setCorrectCount((c) => c + 1);
+    if (sameSet(picks, answers)) setCorrectCount((c) => c + 1);
+  }
+
+  function toggle(key: string) {
+    if (revealed || !current) return;
+    if (isMulti) {
+      setSelected((s) =>
+        s.includes(key) ? s.filter((k) => k !== key) : [...s, key],
+      );
+    } else {
+      // single-answer: pick reveals immediately
+      setSelected([key]);
+      grade([key]);
+    }
+  }
+
+  function confirm() {
+    if (revealed || selected.length === 0) return;
+    grade(selected);
   }
 
   function next() {
-    setPicked(null);
+    setSelected([]);
+    setRevealed(false);
     setIdx((i) => i + 1);
   }
 
@@ -136,7 +176,7 @@ export default function Quiz() {
     );
   }
 
-  const isCorrectPick = picked === current.correct_answer;
+  const isRight = revealed && sameSet(selected, answers);
 
   return (
     <Shell>
@@ -160,45 +200,57 @@ export default function Quiz() {
       </div>
 
       <div className="pop-in w-full rounded-2xl border border-line bg-surface p-6 shadow-sm sm:p-8">
-        <span className="inline-block rounded-full bg-accent-soft px-3 py-1 text-xs font-semibold uppercase tracking-wide text-accent-deep">
-          {current.test}
-        </span>
+        <div className="flex flex-wrap items-center gap-2">
+          <span className="inline-block rounded-full bg-accent-soft px-3 py-1 text-xs font-semibold uppercase tracking-wide text-accent-deep">
+            {current.test}
+          </span>
+          {isMulti && (
+            <span className="inline-block rounded-full bg-line px-3 py-1 text-xs font-semibold uppercase tracking-wide text-muted">
+              {answers.length} răspunsuri corecte
+            </span>
+          )}
+        </div>
         <h2 className="mt-4 text-lg font-semibold leading-relaxed tracking-tight sm:text-xl">
           {current.question}
         </h2>
 
         <div className="mt-6 flex flex-col gap-3">
           {optionKeys.map((key) => {
-            const isAnswer = key === current.correct_answer;
-            const isPicked = key === picked;
-            const answered = picked !== null;
+            const isAnswer = answers.includes(key);
+            const isPicked = selected.includes(key);
 
             let cls =
               "border-line bg-surface hover:border-accent hover:bg-accent-soft/40";
-            if (answered) {
+            if (revealed) {
               if (isAnswer)
                 cls = "border-correct bg-correct-soft text-correct";
               else if (isPicked)
                 cls = "border-wrong bg-wrong-soft text-wrong";
               else cls = "border-line bg-surface opacity-60";
+            } else if (isPicked) {
+              cls = "border-accent bg-accent-soft/60";
             }
 
             return (
               <button
                 key={key}
-                onClick={() => pick(key)}
-                disabled={answered}
+                onClick={() => toggle(key)}
+                disabled={revealed}
                 className={`flex w-full items-start gap-3 rounded-xl border px-4 py-3 text-left transition-all ${cls} ${
-                  answered ? "cursor-default" : "cursor-pointer"
+                  revealed ? "cursor-default" : "cursor-pointer"
                 }`}
               >
                 <span
-                  className={`mt-0.5 flex h-7 w-7 flex-none items-center justify-center rounded-lg border text-sm font-bold uppercase ${
-                    answered && isAnswer
+                  className={`mt-0.5 flex h-7 w-7 flex-none items-center justify-center font-bold uppercase ${
+                    isMulti ? "rounded-md" : "rounded-lg"
+                  } border text-sm ${
+                    revealed && isAnswer
                       ? "border-correct bg-correct text-white"
-                      : answered && isPicked
+                      : revealed && isPicked
                         ? "border-wrong bg-wrong text-white"
-                        : "border-line bg-background text-muted"
+                        : isPicked
+                          ? "border-accent bg-accent text-white"
+                          : "border-line bg-background text-muted"
                   }`}
                 >
                   {key}
@@ -206,10 +258,10 @@ export default function Quiz() {
                 <span className="flex-1 pt-0.5 leading-relaxed">
                   {current.options[key]}
                 </span>
-                {answered && isAnswer && (
+                {revealed && isAnswer && (
                   <Check className="mt-0.5 text-correct" />
                 )}
-                {answered && isPicked && !isAnswer && (
+                {revealed && isPicked && !isAnswer && (
                   <X className="mt-0.5 text-wrong" />
                 )}
               </button>
@@ -217,16 +269,34 @@ export default function Quiz() {
           })}
         </div>
 
-        {picked !== null && (
+        {/* multi-select: confirm before revealing */}
+        {isMulti && !revealed && (
+          <div className="mt-6 flex items-center justify-between gap-4">
+            <p className="text-sm text-muted">
+              Selectează toate răspunsurile corecte, apoi confirmă.
+            </p>
+            <button
+              onClick={confirm}
+              disabled={selected.length === 0}
+              className="inline-flex flex-none items-center gap-2 rounded-full bg-accent px-5 py-2.5 font-medium text-white transition-colors hover:bg-accent-deep disabled:cursor-not-allowed disabled:opacity-50"
+            >
+              Confirmă răspunsul
+            </button>
+          </div>
+        )}
+
+        {revealed && (
           <div className="pop-in mt-6 flex items-center justify-between gap-4">
             <p
               className={`text-sm font-medium ${
-                isCorrectPick ? "text-correct" : "text-wrong"
+                isRight ? "text-correct" : "text-wrong"
               }`}
             >
-              {isCorrectPick
+              {isRight
                 ? "Corect!"
-                : `Greșit — răspunsul corect este „${current.correct_answer.toUpperCase()}”.`}
+                : `Greșit — răspuns${answers.length > 1 ? "uri" : ""} corect${
+                    answers.length > 1 ? "e" : ""
+                  }: ${answers.map((a) => a.toUpperCase()).join(", ")}.`}
             </p>
             <button
               onClick={next}
